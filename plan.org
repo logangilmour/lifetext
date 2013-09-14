@@ -1,0 +1,60 @@
+* 651 CORE-E Presentation
+** sort out how to get rid of todos
+** Read Papers
+*** TODO Read 'The "Resource" Approach to Emotion'
+*** TODO Read 'An Evaluation of the COR-E Computational Model for Affective Behaviours'
+*** TODO Read 'Simulating Affective Behaviours: An Approach Based on the COR Theory'
+
+** Write Outline
+*** Email Vadim about presenting.
+*** Combine Summaries from Papers into master summary.
+
+
+** Make Slides with LibreOffice
+
+
+* 651 Project Proposal
+** Come up with ideas and how to evaluate/train
+*** TODO platformer
+*** TODO monster battle
+*** TODO RTS
+
+** Meet and chose idea
+*** Review chosen idea for novelty, refine till novel
+*** Learn how to research AI idea
+*** Plan when we will write and hand in
+
+** Write Proposal
+*** Get template and review
+
+
+
+
+
+* 660 Assignment
+** Structure assignment
+*** TODO Make a template for submission
+*** itemize tasks in template
+
+** TODO Load data into database
+** Learn about statistics needed
+
+
+* CSCW Abstract
+** Determine overall structure
+*** TODO Make notes on what is present in at least five poster entries from proceedings
+*** Summarise notes into a template
+
+** Make Poster Graphic
+*** TODO Make notes what main components to explain are
+*** Make a rough skeleton of these components in inkscape
+*** Embelish this skeleton with extra detail
+
+** Write Related Work
+*** TODO Find papers with promising titles and put pdfs in one place
+*** Filter through papers by Abstract
+*** Read Papers
+*** Summarise differences and similiarities.
+
+** Write Overview
+*** Figure out a story
