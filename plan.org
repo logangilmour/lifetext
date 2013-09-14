@@ -1,4 +1,5 @@
 * 651 CORE-E Presentation
+DEADLINE: <2013-09-19>
 ** sort out how to get rid of todos
 ** Read Papers
 *** TODO Read 'The "Resource" Approach to Emotion'
@@ -13,7 +14,9 @@
 ** Make Slides with LibreOffice
 
 
+
 * 651 Project Proposal
+DEADLINE: <2013-09-19>
 ** Come up with ideas and how to evaluate/train
 *** TODO platformer
 *** TODO monster battle
@@ -31,7 +34,9 @@
 
 
 
+
 * 660 Assignment
+DEADLINE: <2013-10-04>
 ** Structure assignment
 *** TODO Make a template for submission
 *** itemize tasks in template
@@ -40,7 +45,9 @@
 ** Learn about statistics needed
 
 
+
 * CSCW Abstract
+DEADLINE: <2013-10-07>
 ** Determine overall structure
 *** TODO Make notes on what is present in at least five poster entries from proceedings
 *** Summarise notes into a template
