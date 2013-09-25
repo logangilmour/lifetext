@@ -1,0 +1,96 @@
+* Gamification
+  I want to make the world fun.
+  I want to help people to design games that make learning and understanding fun.
+  I want to make games take the masses of people who are sad and lonely and watching televesion, and make them happy and contributing.
+
+** Venues
+*** Digra (Digital Games Research Association)
+*** Academic Mind Trek
+    http://www.academicmindtrek.org/
+
+*** CHI Human Factors in Computing Systems (Good)
+*** CGAMES USA
+    http://cgamesusa.com/
+*** CSCW (Good)
+*** CIE (Computers in Entertainment)
+*** The Internet and Higher Education
+*** Computers and Education (Good)
+*** Pervasive Computing, IEEE (Good)
+
+
+
+
+* Serious Games
+
+* Educational Games
+
+
+** Related Concepts
+*** Flow
+
+*** Crowd-sourcing
+**** Examples
+     Doulingo
+     Foldit
+
+*** Alternate Reality Games
+*** Augmented Reality Games
+
+** Direction
+   Current way is more 'pointsification'
+   We want to actually intermingle aestetics and reasons why into the activity. Bring the game into it.
+   Some activities are not intrinsically motivating on their own.
+   They are big activities that don't break down well into meaningful ones.
+   We want to do these activities regardless.
+
+* INTD 325
+** Playtesting
+*** Q1
+**** What was the core idea for the playable prototype?
+     What is your game about?
+
+     Growing things, probably a forest.
+
+**** What are the player experience goals?
+     Tell me about how you want your players to feel. What emotions do you wish to evoke? Be more specific than 'Fun'.
+
+     I want my players to experience feelings of calm and wonder. They will guide rather than direct.
+**** What is the core mechanic at its heart?
+     You have a mechanism. Tell me something about it. It's OK if the mechanic is, in reality, ill defined. Just make that explicit.
+     What is the main, underlying thing players will be doing? Is it drawing and playing cards? Is it moving a token through risky territory?
+
+     The game will use aperiodic tiles which can be joined together in specific ways.
+     The goal will be to use up as many tiles as possible without discarding them while growing something beautiful and organic.
+     Your score is how many tiles you discarded. Low scores are better.
+*** Q2
+**** How does the prototype embody this mechanic?
+     What did you build? How are you testing out your core mechanic?
+
+     I made a set of tiles inspired by the penrose tiles. They are all different parts of a tree. They connect (or fail to) based on the number of outgoing things, size of outgoing things, and colour.
+     right now there are trunk/branch pieces, (wood), and transition pieces from leaves to branches.
+
+
+**** What questions did you hope to answer by the playtest?
+     Will drawing tiles randomly give a feeling of mysterious growth with an overarching direction?
+
+     Will building trees feel natural and calming, despite that not being how they really naturally grow? (No tree starts out as a stump)
+
+     Will the player have enough feedback as to what works and what doesn't? Will they actually feel as though they are guiding the growth of the tree, or that they are simply facilitating randomness?
+
+     Will the tiles constrain the players sufficently, or will they feel as though they are just building the tree rather than guiding it?
+
+     Your questions should investigate whether your prototype ends up conveying the idea and player-experience goals you've listed in Question 1.
+     You can also invesigate the mechanical viablitiy of your prototype, but please be specific. What are you worried won't work? How will you test that?
+     These are hypotheses. A good question will ask how a specific part of your mechanism operates in relation to your player experience goals.
+
+*** Q3
+**** What did you learn from the playtest?
+     Answer your questions! Answer every one of them. Copy and past them from Q2 if you have to.
+     Since your questions are about you player experience goals, at least in part, tell me about how you did. To what extent did you meet your player-experience goals?
+     List additional insights that you didn't actually ask questions about, but noted anyway as interesting.
+**** How are you planning to change the game to reach the player experience goals?
+     Look at your answers to you questions. Analyze you outcome and formulate a plan for going forward. What could you do differently? What will stay the same?
+* Human Computation
+  Reddit
+  How do we structure a community for optimal human computation?
+  Government

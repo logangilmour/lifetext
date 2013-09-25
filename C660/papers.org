@@ -1,0 +1,35 @@
+* Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista
+** Motivation
+*** They say distributed development is riskier
+    Communication difficulties
+    Synchronization
+    Confidence/Trust between sites
+
+* Automatic Identification of Bug-Introducing Changes
+** Motivation
+   Might help developers know if they're working on a bug-prone portion of the code by some means
+   Certain kinds of changes might be suspect
+** Background
+*** SZZ
+    1. Get commit that fixes bug
+    2. Track pieces of code that changed backward to most recent change
+    3. Unfortunately stops when we hit cosmetic changes
+
+** New Approach
+*** Annotation graphs track where a function actually was
+*** Ignore Blank lines and comments
+*** Ignore formatting Changes
+    This seems to make a big difference, but how are they doing this? Syntactic analysis?
+*** Remove outliers that change lots of stuff in comparison with others
+    I wonder how often people do a bunch of changes at once? Maybe enough that this is bad? I know I do.
+
+** Discussion
+*** Questionable coverage of fixes
+
+** Threats
+*** Small dataset
+*** Open Source
+    Open source necessitates good communication, otherwise duplication of effort will occur
+
+* Bug Report Deduplication
+**
