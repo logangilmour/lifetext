@@ -33,3 +33,65 @@
 
 * Bug Report Deduplication
 **
+
+
+* Visualizing Software Changes
+** Intro
+*** In an ideal world, software changes are easy because the architecture provides for them.
+*** Because the world is not ideal, software changes are often quite difficult.
+*** It would be nice to have a better picture of the changes made to software.
+*** There are some hassles involved in analyzing this data
+*** General business/statistics tools not designed for this scale, complexity. Lack domain knowledge.
+*** They have buit a tool to handle these hassles
+*** Visualization is useful to understand what questions we should even be asking
+*** Visualization helps us get a quick, qualitative sense of what a project is up to for maneagement purposes.
+
+** Software Changes and Data
+*** What is a change? Changes are recorded in version control.
+**** 'Adaptive Changes' add features or adapt features to external changes.
+**** 'Corrective Changes' are bug fixes.
+**** 'Perfective Changes' are refactors.
+
+*** Developed in the context of a 15 year old telephone switching system
+**** 100 000 000 lines of code (C++, SDL, others)
+**** 100 000 000 lines of Makefiles, headers
+**** 50 distinct subsystems
+**** 5000 modules
+**** Each release is about 20 000 000 LOC
+**** Over 10 000 developers over 15 years
+
+*** Change Process
+
+*** Change Data
+
+** Visualizations Used
+*** Matrix
+*** Cityscape
+*** Bar and Pie Charts
+*** Data sheets
+*** Network views
+*** Perspectives
+**** Link together multiple visualizations
+**** use similiar colours for simliar things?
+
+*** Direct Manipulation
+
+** Understanding Software Change
+*** Basic Stats of changes
+*** Changes indexed by time
+*** Changes indexed by Developer
+*** Size of Changes indexed by release
+*** Activity indexed by developer and software space
+*** Span of Changes
+*** Dimensions of Software Change Visualizations
+
+** Management of Software Development
+*** 25 person, 250 000 LOC
+*** Basic information
+*** Activities of One Developer
+*** High-Severity MRs
+*** MR quality
+*** Scope of Examples
+
+** Discussion
+*** Relation to Previous Research
