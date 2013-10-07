@@ -1,0 +1,6 @@
+* Webapp
+** Requirements
+   List of games that need to be taken from the room (not out, reserved)
+   Option to filter games previously borrowed
+   Meta game that encourages games staying out
+   iFrames with moodle
