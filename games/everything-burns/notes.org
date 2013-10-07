@@ -1,0 +1,28 @@
+* Art Style
+
+* Narrative
+
+* Gameplay
+** Some things must be burned to get past
+** Controlled burns are perhaps important
+** People set on fire very quicly and run fast, setting many flamable things ablaze.
+** Maybe people patrol normally, but then run as far as possible (including falling down platforms) once on fire for some duration of time.
+** stuff could collapse and fall with basic stress/gravity automata system.
+** Dudes grow increasingly armed and agressive, forcing you to burn more and more of the level.
+
+
+* Mechanics
+** Tiles have a rate of heat increase number (heat resistance)
+** Tiles have a smoke point and flash point (smoke is just cool fire?)
+** Flash point is when a tile starts contributing to heat and consuming itself.
+** Some tiles have a 'consumed' state, others just dissappear.
+** Though this all makes fire last maybe not long enough.
+** Screw it, stuff just burns.
+** You only have fire at your disposal. People eventually die from burning, but they will run around for a while first.
+
+
+* Architecture
+
+* Editor
+** Features
+*** 

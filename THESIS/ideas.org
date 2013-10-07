@@ -28,6 +28,7 @@
 ** Educational Games
 ** Serious Games
 ** Flow
+** Games With a Purpose
 ** Alternate Reality Games
 ** Augmented Reality Games
 
@@ -38,6 +39,7 @@
    They are big activities that don't break down well into meaningful ones.
    We want to do these activities regardless.
 
+** Modeling fun (Theorem proving approach? 'Fun classes?')
 * Human Computation
 ** Examples
    Doulingo
@@ -96,3 +98,6 @@
    any good collaborations with known entities
 
    
+
+* Papers
+** Human Computation (von2009human)
