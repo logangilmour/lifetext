@@ -5,7 +5,7 @@
 
 * Venues
 *** Digra (Digital Games Research Association)
-*** Academic Mind Trek
+*** Academic Mind Trek 
     http://www.academicmindtrek.org/
 
 *** CHI Human Factors in Computing Systems (Good)
@@ -17,13 +17,24 @@
 *** Computers and Education (Good)
 *** Pervasive Computing, IEEE (Good)
 
+*** CIKM
+    http://www.cikm2012.org/
 
+* Resources
+** The MIT Center for Collective Intelligence
+   http://cci.mit.edu/
+
+* Books
 
 * Crowd-sourcing
 ** Examples
    Reddit
    StackOverflow
    Wikipedia
+   Mechanical Turk
+   CrowdFlower
+   Innocentive
+   
 * Related Concepts
 ** Educational Games
 ** Serious Games
@@ -44,6 +55,8 @@
 ** Examples
    Doulingo
    Foldit
+   GalaxyZoo
+   hsx.com
 ** How do we structure a community for optimal human computation?
 ** Government
 
@@ -97,7 +110,176 @@
    you are capable of doing this research
    any good collaborations with known entities
 
-   
+  
 
-* Papers
-** Human Computation (von2009human)
+* Retroactive human computation
+
+* Lazy Evualuation of Human Resources
+
+* Creating information as fun
+** Maybe we can make games that are more fun because of human computation
+
+
+* CASE THE JOINT
+** How do we get people to take good pictures of businesses?
+** How do we g
+
+
+* Computational Model of Fun
+** Determine the 'Path' game
+*** Shortest path probably isn't fun
+*** Hamiltonian path probably isn't fun either
+*** This might depend on size of graph
+
+
+* Mapping the Insides of Buildings
+** Need to map buildings to 'defend' them?
+** Walking a perimeter
+** Attackers exploit mistakes made by mappers
+** Attackers exploit cheating by mappers, i.e. incentivize identities staying secret.
+** 'The Sea Will Claim Everything'
+** Worth considering providing for 3D modeling
+** Filters to make images really colourful
+** Design roles appealing to women
+*** Emotion
+    Story? Connect with others
+*** Real World
+*** Nurturing
+    Healing other players
+*** Dialog and Verbal Puzzles
+    Dialog-based play
+*** Learning by example?
+*** Multitasking
+*** Less competitive
+
+** Denign roles appealing to men
+*** Spatial reasoning
+*** Destruction
+*** Mastery
+*** Competion
+*** Trial-and-error
+
+
+** Interesting form of appeal
+*** Fantasy
+*** Narrative
+*** Challenge
+*** Fellowship
+*** Discovery
+*** Expression
+*** Submission
+*** Gift giving
+    Could work well with the point-and-click
+*** Humour
+    Funny game
+
+*** Possibility
+    Lots of choices, like a buffet
+
+*** anticipation
+
+*** Shadenfrued
+    
+*** Purification
+    i.e. pacman, should be doable
+
+*** Thrill
+
+*** Suprise
+
+*** Triumph over Adversity
+    Hard, hard stuff.
+
+*** Wonder
+    awe and amazement - maybe some kind of high-level business, or abstract or something.
+
+*** Recursive narrative arc
+
+
+
+** Journey-esque experience in the real world?
+** You take pictures to communicate with another person in real time?
+
+** If windows give us GPS, make windows the target somehow H
+
+
+* Urban Obstacles
+** Gameness
+*** 'Unlock' obstacles/courses, they show up on the map as places to go.
+    Maybe linear?
+** Database 
+*** Courses
+**** Paths
+**** Obstacles
+*** obstacles
+**** Pics of obstacle
+**** GPS location of obstacle
+*** classifications
+**** parts of body excercised
+**** techniques for obstacle
+
+
+
+* Money Management Game
+
+* Things to look in to
+** CrowdDB
+** Qurk
+** Turkit
+** HProc
+
+* Comparison of mechanical turk algorithms vs game algorithms
+
+* Crowd-source a font on mechanical turk!
+
+* Generalized Crowd-sourcing Platforms
+
+* NFC
+
+* Proposal
+** Computational Complexity of Fun
+** What have we done before
+** lucio icc
+** Game Theory?
+
+* User Generated Content
+
+* Applications
+** MOOC evaluation
+
+Xuan dominion 1 perudo
+kelly powergrid
+elvis 
+blockus
+lost cities jarrod
+fiasco
+doug wits and wagers
+
+
+* Affordances Lecture
+** State, state-markers, etcetera
+
+
+* Is it better to have a manager make a bunch of people do things, or a writer create a story that makes them want to do it?
+
+
+* Proposal
+** A section describing the problem, the context/background in which the problem arises, it's importance and similar things
+*** Crowdsourcing
+*** Human Computation
+*** Motivation/Fun
+**** Current approach is 'pointsification'
+**** Some stumble on inherently interesting problems
+
+** A section characterizing the open computing science challenges that you want to work on and how you are planning to address those, i.e., the research methodology that you are going to apply.
+*** Empirical approach
+*** Theoretical derivation of principles
+
+** A section highlighting the significance of the contribution that you expect to make if you succeed in your program, addressing what is innovative about your approach.
+*** Computational approach to motivation is novel, i.e. what problems are good for humans and how to transform a boring problem to an interesting one.
+
+** A section describing the relationship of your approach to what is known about the problem in the related work literature, in particular mentioning how it will advance the field.
+*** Mention number of hours of TV
+*** Idea that solving this problem will help with paid version
+*** Could also address problem of cheating.
+

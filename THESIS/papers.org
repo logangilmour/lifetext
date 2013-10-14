@@ -1,0 +1,521 @@
+* Game Theory
+** The role of game theory in human computation systems (Jain:2009:RGT:1600150.1600171)
+** On formal models for social verification (Ho:2009:FMS:1600150.1600172)
+** Designing incentives for online question-and-answer forums (Jain2012)
+
+
+* Games
+** Human Computation (von2009human)
+*** CAPTCH
+**** Automated turing test
+**** OCR based capchas
+**** Sound based captchas
+**** Pattern-recognition captchas
+**** Must solve an open problem in AI to get through - win win
+**** Open problem in CAPTCHAs is text-based captcha
+*** ESP
+**** Players don't see guesses until match
+**** Taboo words generated from previous games
+**** Images might be to complex, but players can pass
+**** 30-second bucketing to prevent simulataneous login.
+**** Play with pre-recorded partner
+     Helps with cheating and intial stages of game with less users
+**** Cheating Prevention
+     Ip checking, must be from different IPs
+     Decrease in time to play game should indicate global strategy
+     In the event of global stratgy, up Bots
+     Session-wide taboo words help by preventing naive global strategies
+     What about pseudo-labeling? I.e. concatting a curse-word with a valid guess
+     I suggest trying to find a way to let users work this out themselves.
+     Though apparently spelling is checked
+**** Theme rooms for context
+**** Evaluation
+***** Labeling rate
+      1.3 million labels from 13 000 people over 4 months
+      5000 people could label all of google images (at time of writing) pretty quickly
+***** Quality of Labels
+      Search queries were 100% successful (all queries for 'car' contained a car)
+      Having test subjects suggest words lined up well with community-chosen words
+      Had subjects rate how good the labels were - high rating
+*** Peakaboom
+**** Encourages exposure of particular portion of image for labeling
+     Good for training AI
+     Click to reveal 20-pixel radius portion of image
+     Players incentivized to minimize area
+     Fed by ESP
+     Bonus round wherein players attempt to click the same point in the image after being prompted by a word.
+     Points for passing help identify whether the object exists.
+**** Creates Metadata
+     Pixels related to word
+     Area of image most salient to word
+     Relation of word to image
+**** Cheating
+     Essentially the same measures as ESP
+**** Motivation
+     Players play to reach a new rank
+     
+**** Applications
+     Helping improving search results (more pixels for the searched word is better)
+     Clustering produces good bounding boxes
+
+**** Evaluation
+***** Lots of people played a fair bit
+***** Comments indicate people like it
+***** Overlap of bounding boxes from participants vs game
+      Damn close. Since not designed for bounding boxes, this illustrates usefulness of data
+***** 100% of evaluators determin that pointers point to things.
+
+*** Phetch
+**** Descriptions of images for visually impaired.
+**** Rules
+     Describers are given an image. They describe the image. 
+     Seekers attempt to find the image using the description.
+     First Seeker becomes the describer and gains points
+     Describers get points for found descriptions
+     Images are searched in the ESP database.
+**** Evaluation
+     Compared to ESP keyword search, better
+     People played it, therefore it was fun.
+
+*** Verbosity
+**** Build a fact database
+**** Similiar to game 'Taboo'
+**** Rules
+     Uses templates so that facts follow a familiar form.
+     Can't use the word itself.
+**** Related
+     OpenMind, Cyc
+
+*** General Method
+**** Making work fun
+**** Games as algorithms
+**** Output verification problem
+***** Asymetric (Peekaboom)
+***** Symetric (ESP)
+**** Principles
+h***** Create a game session that is moderately short
+      This could be explained by Flow, in that feedback is important
+***** Timed response to drive up challenge an increase thoroughput
+***** Score Keeping
+***** Pre-recorded play
+**** Evaluation
+***** How much do people play?
+      This should indicate fun.
+**** Open Problems
+***** Language Translation (duolingo)
+***** Monitoring Security Cameras
+***** Improving Web Search
+***** Text Summarizationa
+
+** EyeSpy: supporting navigation through play (Bell:2009:ESN:1518701.1518723)
+*** Similiar!
+*** Create a database of location-tagged photos
+*** Players are given 10 photos to tag per day, then given points for them
+*** Use rf fingerprint
+*** GPS slow
+*** Game is boring
+*** Saturation of play area
+*** Speculation on difficulty of human computation and perils of thinking of people as boxes
+** PhotoCity: training experts at large-scale image acquisition through a competitive game (Tuite:2011:PTE:1978942.1979146)
+*** Photo databases are useful.
+*** Bunch of photos to 3d model campusses
+*** Competition between two universities
+*** Players attempt to capture partially photographed buildings
+**** Players recieve points based on how much detail is added to the point-cloud of the building
+**** This incentivizes useful photos
+**** Players can seed buildings with approval
+*** Competition between schools
+**** Lots of photos taken
+*** Results
+**** 60% of photos used
+*** Player motivation
+**** Competition helped
+**** People thought models were cool
+**** Titles seem good
+**** Rejection demotivating
+**** Taking good photos had strategy
+**** People became more active (lots of walking around)
+
+** Distributed Medical Image Analysis and Diagnosis through Crowd-Sourced Games: A Malaria Case Study (mavandadi2012distributed)
+*** Players treated as part of a noisy system
+*** Looking for malaria
+*** Learning algorithm also
+*** Domain:
+**** 100-300 FOVs per patient in blood check under microscope.
+**** Algorithmic versions in the works, but nothing in production
+*** Game Design
+**** Started with test game
+**** Control cells exist in actual game
+**** Humans used for 'difficult to diagnose' images in one version, successful.
+**** Real version would have lots of images per patient, so higher chance of success
+
+** Guess who?: enriching the social graph through a crowdsourcing game. (Guy:2011:GES:1978942.1979145)
+*** 
+* Surveys/Taxonomies
+** A Survey of Human Computation Systems (5283450)
+*** Crummy survey that might have useful directions in it
+** Programming the Global Brain  (Bernstein:2012:PGB:2160718.2160731)
+   Can view aggregate of people and computers on planet as 'global brain'
+*** Imporant differences from traditional programming
+**** Motivation
+     People need good reasons to do things - this has to be part of design
+**** Cognitive Variance
+     People vary widely in their skills and abilities.
+     Need to figure out how to get the right tasks in front of the right people.
+**** Errors
+     People have more bizarre failure/error conditions than computers.
+     Fortunately, error-correction can be designed into system.
+     Crazy emergent stuff
+*** New programming metaphors
+**** Trends exist
+     Voting
+     Decisions
+     Collaborations
+
+**** More about a fitness function for correct results than programming
+**** Managing dependencies in the task-graph
+**** Program the brain with dataflow
+**** Collaborative deliberation
+     The brain can be structured to filter things down to good ideas
+**** View as rapid virtual organizations
+**** View it as a multi-player game
+*** Social Operating System
+**** In addition to managing computing resources, can manage human computation resources.
+*** New programming languages
+    Can imagine a 'social-constraint-programming' type language
+*** New Software Engineering Mindsets 
+** Human Computation: A Survey and Taxonomy of a Growing Field (Quinn:2011:HCS:1978942.1979148)
+*** Definition
+    The problem is computable, and might one day be solved by computers.
+    The system orchestrates the human involvement in the task.
+*** Wikipedia is not human computation, as users chose what they contribute to and create novel content.
+*** Related Terms
+**** Crowdsourcing
+     In crowdsourcing, a role is transfered from an employee to the unwashed masses.
+     Some overlap with Human Computation
+**** Social Computing
+     Applications that facilitate collective action. The goal is the collectives intent, not computation.
+**** Data Mining
+     Data mining is not human computation because the humans direct the creation of the data. i.e. page-rank is not human computation because people made the links on their own, rather that under the direction of the human-computation algorithm.
+**** Collective Intelligence
+     "Groups of individuals doing things collectively that seem intelligent."
+     Human computation is not necessarily about collective - i.e. one dude could do it.
+*** Classification
+**** Motivation
+***** Pay
+***** Altruism
+***** Enjoyment
+***** Reputation
+***** Implicit Work
+**** Quality Control
+***** Output Agreement
+      Compare work to see if it agrees
+***** Input Agreement
+      Two users compare descriptions and decide if they are listening to the same thing
+***** Economic Models
+      Game-theoretic money stuff
+***** Defensive Task Design
+      Design the task so that it is no easier to cheat than to do it.
+***** Reputation System
+      Penalize people for cheating by lowering the systems evaluation of them.
+***** Redundancy
+      With enough same answers, you can assume bad-answerers are nullified.
+***** Ground Truth Seeding
+      'Test' people with questions you know the answer to.
+***** Statistical Filtering
+      Discount results that don't fit a distribution.
+***** Multilevel review
+      One work does job, second rates it, or more complex structures.
+***** Expert Review
+      Have someone who knows what they're doing look at the work.
+***** Automatic check
+      Some problems are hard to solve but easy to verify, so just have humans solve the problem and then verify it with a computer.
+**** Aggregation
+***** Collection
+      Your computation results go in a pile.
+***** Statistical Processing of Data
+      Wisdom of Crowds, Individual Errors evenly distributed, can be removed.
+***** Iterative improvement
+      Give results of one to another for N reps
+***** Active Learning
+      Machine learning where examples most benefited by annotation are delegated to humans.
+***** Filtered Collection
+      Keep tasks marked as 'True', i.e. image containing particles
+***** Genetic Algorithm
+      ???
+***** None
+      We just need small tasks done.
+**** Human Skill
+     What skills do human participants need?
+**** Process Order
+***** CWR
+      Repatcha: Computer identifies, Worker recognizes, Requester incorporates
+***** WRC
+      ESP: Worker labels, Requester asks, Computer responds.
+***** CWRC
+      Cyc: Computer presents fact, Worker checks fact, Requester asks for fact, Computer retrieves fact
+***** RW
+      Mechanical Turk: Requester asks, Worker answers.
+** Crowdsourcing systems on the World-Wide Web (Doan:2011:CSW:1924421.1924442)
+*** Defining Crowd Sourcing
+    A CS system uses humans to solve a problem defined by the system owners.
+    Not Crowd Management
+
+*** Classification
+**** Nature of Collaboration 
+***** Explicit
+      Users are explicitly collaborating, and are given tools to do so.
+****** Evaluating
+       rating stuff (amazon reviews)
+****** Sharing
+       Making a bucket of content (youtube)
+****** Networking
+       Hook people together. Facebook, linked-in
+****** Building Artefacts
+       Wikipedia, github
+****** Executing Tasks
+       Mechanical Turk
+***** Implicit
+****** ESP, reCapcha
+****** Data mining (piggyback)
+
+**** Type of Target Problem
+     Building Artefacts, doing tasks...
+**** Four Fundamental Challenges
+***** Getting users and keep them
+****** Recruit
+       Coercieon
+       Pay
+       Volunteers
+       As payment for a desirable service
+       Piggyback
+****** Retain
+       Gratify (Show how they help)
+       It's a game and inherently worth doing
+       Let users establish trust/repuation
+       Ownership (let user feel like they cultivate part of the system)
+       Might bootstrap the system with pay, then move to a game later.
+***** Getting users to do something useful
+****** How cognitively demanding is the task?
+       Should keep users of various levels at a reasonable cognitive level
+****** How much impact?
+       High-ranking users should be able to make big changes
+****** Machine contributions
+       If you can do it with a machine, do that probably
+****** Good interface
+       Natural language is good for humans, but bad for machines.
+       It's hard to design an interface that is good for both humans and machines.
+***** Combing user contributions into a sollution
+****** Merging sums is easy, but merging natural language is hard.
+****** What about when both humans and machine contribute?
+***** Evaluating users and their contributions
+****** Malicious users may exist
+****** Can ban/shame users - allow community to regulate itself
+****** Undo important for when bad users do stuff and then are identified
+
+**** Degree of Manual Effort
+     How much is required for each challenge?
+     i.e. combining ratings is easier than combining code
+     How much for users, how much for system owners?
+**** Role of Human Users
+***** Slaves
+      Help solve in divide and conquer fashion
+***** Perspective Providers
+      Humans provide (i.e. combined book reviews)
+***** Content Providers
+      Humans make content
+***** Component Providers
+      People are the content
+**** Standalone vs. Piggyback
+     Piggyback systems are basically data-mining
+
+
+* Fun
+** GameFlow: a model for evaluating player enjoyment in games (sweetser2005gameflow)
+*** Background
+**** Lots of ways to analyze parts of enjoyment
+**** Flow looks to be most universal
+
+
+* Camera Mappinbg
+** Indoor positioning and navigation with camera phones (mulloni2009indoor)
+*** Overview
+    GPS doesn't work inside
+    Indoor solutions require install infrastructure
+    Continuous scanning from camera
+*** Markers
+    Easy to see for people
+    Unobtrusive
+*** Evaluation
+**** Groups
+     Users without localization
+     discrete localization (this solution)
+     continuous localization (user secretly adjusting location on map for user)
+**** Results
+     Continuous best, discrete significantly better than none
+*** Real World Deployment
+**** 3D navigation not great
+**** Directions and 2d map good
+
+    
+** Survey of Optical Indoor Positioning System (mautz2011survey)
+*** Reference from 3D models
+*** Reference from Images
+*** Reference from Coded Targets
+*** Reference from Projected Targets
+** Handheld augmented reality indoor navigation with activity-based instructions (mulloni2011handheld)
+*** Not much study of sparse localization
+*** Goals
+    Robust against deviation
+    Low effort installation
+    Adapt interface based on localization and user activity
+    Easy to get from one thing to another in interface (single tap)
+
+
+* Platforms
+** Turkomatic: Automatic Recursive Task and Workflow Design for Mechanical Turk (Kulkarni:2011:TAR:1979742.1979865)
+*** Process
+**** Subdivide
+    The worker either does the given task, or breaks it down into two smaller tasks
+    Recurse
+    Multiple subdivisions are given, and other workers vote on best one.
+**** Merge
+    Workers are presented with two completed things, and asked to merge them into another completed thing.
+*** Task template design
+**** Need to give a workflow to give workers context for task completion.
+     Eventually, full decomposition generated so far given to all workers.
+**** Need to visually highlight what the worker actually has to do.
+**** Favour higher-quality workers higher up in the recursion
+*** Evaluation
+**** Essay and SAT
+**** Task Breakdown most Difficult
+** Collaboratively crowdsourcing workflows with turkomatic (Kulkarni:2012:CCW:2145204.2145354)
+*** Recursive Price-divide-solve
+    Easier to use than existing task-planning software
+*** Editable Workflow Visualization
+    Shows how people have broken down the task so far
+*** Results
+**** Unsupervised
+     Not great. Mosty derailed, failed to termitate, or starved.
+     Did seem as though some users could have fixed it if there was a way to do so
+     Failure to subdivide
+**** Supervised
+     Successful
+**** Discussion
+     Instructional writing is difficult
+     Reputation maneagment is difficult, because users are creating problem descriptions.
+     Could have allowed better workers more power maybe    
+
+* Human Factors
+** Shepherding the Crowd Yields Better Work (Dow:2012:SCY:2145204.2145355)
+*** Task Specific Feedback will Help?
+*** Assessment: None, Self, External
+*** Hypothesis
+    Any assessment will improve quality of work
+    Assessment will improve work over time
+    Assessment will motivate increased output
+    External assessment will magnify these effects compared to self assessment
+*** Synchronous, workflow stuff
+*** Evaluation
+    Participants select six things to review
+    Instructions on good reviewing given
+    Six reviews (one per category)
+    Demographics questionaire
+    Workers paid based on quality, flat rate
+*** Self lower output, but same quality as external, both an improvement over none.
+
+** Crowdsourcing, attention and productivity (huberman2009crowdsourcing)
+*** Something about engagement maybe, or people paying attention to you
+
+** Sellers’ problems in human computation markets (silberman2010sellers)
+*** Sometimes sellers get screwed, and some sellers rely on AMT
+*** Some do tasks to pass the time (42%!)
+*** Specific Problems
+**** Uncertainty about payment
+**** Unaccountable and seemingly arbitrary rejections
+**** Fraudulent Tasks
+**** Malware Tasks
+**** Prohibitive Time-limits
+**** Long Pay Delays
+**** Uncommunicative Requesters and Administrators
+**** Cost of Requester and Administrator error born by workers
+**** Low pay
+*** Approaches to problems
+**** Basically all ways of sharing info about dudes.
+  
+** Breaking monotony with meaning: Motivation in crowdsourcing markets (Chandler2013123)
+*** Background
+**** It has been shown that people will take a pay cut to do non-profit work with social value
+**** Shown that labour needs to be both recognizable and purposeful
+**** Building legos vs picking consecutive letters from random
+*** Overview
+**** Three groups of labourers
+**** One group told they are labeling tumours to help research
+**** One group not told what they are doing
+**** One group told their work will be discarded
+**** Each subsequent task pays less, from 0.09 to 0.02
+*** Results
+**** Quantity increases with meaning
+**** Quality decreases when told work will be discarded.
+
+
+** Man's search for meaning: The case of Legos (ariely2008man)
+*** Experiment 1
+**** Declining wage finding letters
+**** Three groups, acknowledged, ignored, shredded
+**** Acknowledged significantly more work that ignored and shredded, which were similiar
+*** Experiment 2
+**** Assembling legos declining wage
+**** Legos assembled accumulate in meaningful, wherease they are dissasembled in meaningless
+**** Significantly more bionacles made in meaningiful condition
+*** Conclusion
+**** Meaning important
+**** Subjects knew they were in an experiment, so there was some inherent meaning.
+
+
+* Semantic
+** Human Computation for Attribute and Attribute Value Acquisition (law2011human)
+
+* Algorithm Design
+** Deco: Declarative Crowdsourcing (Parameswaran:2012:DDC:2396761.2398421)
+*** SQL extension for querying crowds in conjunction with real data
+*** Challenges
+    How to resolve dissagreement?
+    How does the schema incorporate people?
+    How do we define the constraints regarding how data much is enough, etcetera?
+    What data should it store?
+    How do we handle latency of crowd?
+*** Data Model
+**** Conceptual Schema
+     Anchor attributes and dependant anchor attributes
+     Fetch rules (get crowd-sourced data)
+     Resolution Rules (dissambiguate crowd-sourced data)
+**** Raw Schema
+     Generated for underlying rdbms
+**** Data Model Semantics
+     Basically how we hook stuff together to make valid hybrid data
+
+*** Meta Data
+    Data Expiration
+    Worker Quality
+    Voting
+    Confidence Score
+    Fetch Rule that generated data
+
+*** Language
+    Allows different possible termination rules, i.e. get at least N rows, or get as many rows as possible in X time.
+
+*** Execution
+    Query planning taylored to crowd-sourced info
+** CrowdScreen: algorithms for filtering data with humans (Parameswaran:2012:CAF:2213836.2213878)
+*** Part of DB query approach
+*** Statistical approach that improves costs (man-hours)
+*** Pass/Fail for an item.
+*** Strategies for ratio of Yes to No on an item over time
+*** Multiple Filters
+** Human-powered Sorts and Joins (Marcus:2011:HSJ:2047485.2047487)
+   Optimizations on joins that reduce costs
+** Human-assisted graph search: it's okay to ask questions (Parameswaran:2011:HGS:1952376.1952377)
+*** Optimization of reachability problem with people
+
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeee

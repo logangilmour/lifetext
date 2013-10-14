@@ -20,6 +20,10 @@
 ** Screw it, stuff just burns.
 ** You only have fire at your disposal. People eventually die from burning, but they will run around for a while first.
 
+** Tile Properties
+*** Colour
+*** Flamability
+*** Max heat output
 
 * Architecture
 
