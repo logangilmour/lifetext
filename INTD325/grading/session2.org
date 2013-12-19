@@ -1,0 +1,37 @@
+* Phobia
+** Rules
+*** Nothing in rules about classes
+*** Says different things about carrying on cards and in rules
+*** Why do we get to place locks?
+*** What does eyes/body parts mean? (fear card)
+*** Maybe more explanation of moving than neccessary
+*** what happens to the monster card after drawn?
+*** How do we stack damage
+*** What happens if my health goes to 11?
+*** Stairs not obvious
+*** Locks - why orientation
+*** No state marker for fear draw
+*** Monster phase, full moon - 2 drawn?
+*** Master hand? Who moves?
+*** We are not losing at all.
+*** Lock picks for theif?
+*** 
+
+* Gauche
+** 5 player variant doesn't feel possible - arson strategy seems unbeatable.
+** Everything else rad
+
+* AssassinsZ
+** Paper health meter tokens horrible and easy to lose
+** Why can you move so far in the sewer?
+** Combat about multiple players thing a little unclear
+** Adjacent isnt' adjacent - thansk for pic
+** Rock rules? Does rock mess up combat? Must a room be exposed? Does a rock reveal a room if you throw it through an unknown door?
+** Hard to pick up player tokens
+** Item markers would be nice - cards are big.
+** Defense seems crappy, stealth great
+** Kimberly with another player is pretty powerful
+** Like the quick reference!
+** Why coins? People grab them.
+** game not hard.
+** guards moving somehow would have helped.

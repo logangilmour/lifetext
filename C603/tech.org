@@ -1,0 +1,25 @@
+* K-Nearest Neigbors Algorithm
+** Overview of what it is
+*** Lazy classification method
+*** Looks to closest examples in training set
+**** Distance in N-dimensional space, where N is the number of measures
+**** Majority vote within K nearest
+
+** Laziness
+
+** Measures
+**** For discrete variables, overlap can be calculated
+
+**** Need good measures
+***** Car classification - speed vs cost
+
+** Choosing K
+
+
+** Running time
+**** Worst case can be O(N) where N is size of training set.
+**** In a naive implementation, this will always be the runtime.
+**** Skewed training data can be problematic, because lots of one thing makes it winning the majority vote more likely.
+
+** Uses
+

@@ -1,8 +1,300 @@
-* Gamification
-  I want to make the world fun.
-  I want to help people to design games that make learning and understanding fun.
-  I want to make games take the masses of people who are sad and lonely and watching televesion, and make them happy and contributing.
 
+Human-Computer Systems
+
+* Game containing flow
+** Audio should mix with the aesthetics and the action as seamlessly as possible. Should be self-referential to maximize recognition of complex patterns
+** Visuals should mix with the audio and mechanics as much as possible
+* Games
+** Life
+*** Money Management Game
+**** Need feedback - paying back is good, this could also be saving.
+***** How to do this more often? Maybe 'lock in' savings by spending less than X in a given period?
+***** Savings should be sacred - no spending these points.
+**** Sometimes you need to buy an expensivish thing on a specific day, which can screw that day with only one count. Might be important to have long-term money and short-term money.
+**** Need to take into account the stuff that gets bought automatically. Should be able to just subtract this stuff or something.
+**** Need goals, i.e. save X dollars of Y dollars by Date
+**** Possibility of 'survive on X dollars for Y days' also good, though will it be as rewarding?
+*** Urban Obstacles
+**** Gameness
+***** 'Unlock' obstacles/courses, they show up on the map as places to go.
+      Maybe linear?
+**** Database 
+***** Courses
+****** Paths
+****** Obstacles
+***** obstacles
+****** Pics of obstacle
+****** GPS location of obstacle
+***** classifications
+****** parts of body excercised
+****** techniques for obstacle
+
+*** Think about some kind of modern MUD
+**** I want a conduit to the virtual world that is good and meaningful and safe and real and hackery and magical and underground.
+
+**** Condsider building an abstraction for an 'html5 visual terminal' that somehow lets people build terminal-like apps but for the browser and with visuals to some degree
+
+*** Game that helps a researcher understand how well they've explored the web of papers in their field
+    
+*** Something to do with nutrition.
+** Location-based
+*** Mapping the Insides of Buildings
+**** Need to map buildings to 'defend' them?
+**** Walking a perimeter
+**** Attackers exploit mistakes made by mappers
+**** Attackers exploit cheating by mappers, i.e. incentivize identities staying secret.
+**** 'The Sea Will Claim Everything'
+**** Worth considering providing for 3D modeling
+**** Filters to make images really colourful
+**** Design roles appealing to women
+***** Emotion
+      Story? Connect with others
+***** Real World
+***** Nurturing
+      Healing other players
+***** Dialog and Verbal Puzzles
+      Dialog-based play
+***** Learning by example?
+***** Multitasking
+***** Less competitive
+
+**** Denign roles appealing to men
+***** Spatial reasoning
+***** Destruction
+***** Mastery
+***** Competion
+***** Trial-and-error
+
+
+**** Interesting form of appeal
+***** Fantasy
+***** Narrative
+***** Challenge
+***** Fellowship
+***** Discovery
+***** Expression
+***** Submission
+***** Gift giving
+      Could work well with the point-and-click
+***** Humour
+      Funny game
+
+***** Possibility
+      Lots of choices, like a buffet
+
+***** anticipation
+
+***** Shadenfrued
+      
+***** Purification
+      i.e. pacman, should be doable
+
+***** Thrill
+
+***** Suprise
+
+***** Triumph over Adversity
+      Hard, hard stuff.
+
+***** Wonder
+      awe and amazement - maybe some kind of high-level business, or abstract or something.
+
+***** Recursive narrative arc
+
+
+
+**** Journey-esque experience in the real world?
+**** You take pictures to communicate with another person in real time?
+
+**** If windows give us GPS, make windows the target somehow H
+
+**** Make a game out of the common cold
+***** People indicate if they are sick, and then they are tracked or something (at least where they are on campus)
+***** You can get wellness points by washing your hands or whatever measures are sweet, and those points are worth more when you are in highly infected areas. Though we don't want to incentivize going to these areas - maybe you lose points faster than you could possibly wash them away in these areas, and must wash periodically just to keep from to much score decrease
+***** You lose points for touching face or eyes or whatever
+
+****** Always wash your hands: Children and adults should wash hands after nose-wiping, diapering, and using the bathroom, and before eating and preparing food.
+****** Disinfect: Clean commonly touched surfaces (such as sink handles, door knobs, and sleeping mats) with an EPA-approved disinfectant.
+****** Choose smaller daycare classes: Attending a day care where there are six or fewer children dramatically reduces the spread of germs.
+****** Use instant hand sanitizers: These products use alcohol to destroy germs. They are an antiseptic, not an antibiotic, so resistance can't develop. A little dab will kill 99.99% of germs without any water or towels.
+****** Use paper towels instead of sharing cloth towels.
+**** Space Combat
+     Experience goal is an earily soothing combat experience.
+***** Space is a good setting, because slow movement and beautiful backgrounds follow.
+***** Only form of death is floating away into space? Maybe suit puncture as well.
+***** Rotation of view will change to always be under you.
+***** Black and white art mostly? Maybe backgrounds have colour.
+***** Magnetic boots - ground only rotates once you thunk in.
+***** Force players to commit suicide if they float into space.
+***** Music
+***** ability/necessity to rotate in 3d space
+****** Guitar ambience?
+**** Create a tragic videogame
+***** You play as some force of badness or sadness that causes the ultimate failure of the main character (who is not you)
+
+***** Game where you sail with the wind
+
+***** UNDERSTAND THE RED LINE
+
+***** World building is powerful flow, perhaps because it uses some serious hardware for understanding the actual world on a new thing.
+
+***** Faces are important too. We like to look at them and figure stuff out.
+****** This is why the ESP game works, in part - we have chunky hardware for this problem.
+
+
+
+***** Build a game with fractal structure
+
+***** Symetries
+**** A game about what everyone believes, where you are lied to subtly about the mechanic
+**** CASE THE JOINT
+***** How do we get people to take good pictures of businesses?
+***** How do we g
+*** Make a game out of the common cold
+**** People indicate if they are sick, and then they are tracked or something (at least where they are on campus)
+**** You can get wellness points by washing your hands or whatever measures are sweet, and those points are worth more when you are in highly infected areas. Though we don't want to incentivize going to these areas - maybe you lose points faster than you could possibly wash them away in these areas, and must wash periodically just to keep from to much score decrease
+**** You lose points for touching face or eyes or whatever
+
+***** Always wash your hands: Children and adults should wash hands after nose-wiping, diapering, and using the bathroom, and before eating and preparing food.
+***** Disinfect: Clean commonly touched surfaces (such as sink handles, door knobs, and sleeping mats) with an EPA-approved disinfectant.
+***** Choose smaller daycare classes: Attending a day care where there are six or fewer children dramatically reduces the spread of germs.
+***** Use instant hand sanitizers: These products use alcohol to destroy germs. They are an antiseptic, not an antibiotic, so resistance can't develop. A little dab will kill 99.99% of germs without any water or towels.
+***** Use paper towels instead of sharing cloth towels.
+*** CASE THE JOINT
+**** How do we get people to take good pictures of businesses?
+**** How do we g
+** Digital Indie
+*** Game where you try to advertise effectively
+    Could have crazy twists, be violent and nutty?
+*** Psychology game
+    Leap into rooms and 'Treat' people
+    Have them committed
+*** Create a tragic videogame
+**** You play as some force of badness or sadness that causes the ultimate failure of the main character (who is not you)
+
+**** Game where you sail with the wind
+
+**** UNDERSTAND THE RED LINE
+
+**** World building is powerful flow, perhaps because it uses some serious hardware for understanding the actual world on a new thing.
+
+**** Faces are important too. We like to look at them and figure stuff out.
+***** This is why the ESP game works, in part - we have chunky hardware for this problem.
+
+
+
+**** Build a game with fractal structure
+
+**** Symetries
+*** A game about what everyone believes, where you are lied to subtly about the mechanic
+
+** Learning
+*** MOOC evaluation
+
+** Line world
+*** Detecting collisions
+**** Can do line intersection check for each line for last two positions, see if 'contact points' make a line that intersects the line you should hit.
+**** Immediately flip user around so that some kind of center position, or where you contacted, or whatever, is the center point between feet or just feet are in same place, angle should be orthogonal.
+**** What to do if you hit a line that you can't stick to? Bounce some, (though damp it). If we damp in direction of the angle of the thing, we should slide nice. What about little nicks? Maybe we don't do those.
+**** These physics should allow for 'ramps'
+*** Editor
+**** Creating vertices
+***** Clicking somewhere makes a vertex there. If there is a selected vertex, there is a line.
+**** Selecting vertices
+***** Hold down a different key to select vertices
+***** A vertex will look special when selected. Selected means new clicks and lines to that vertext. Default state of a new vertex is selected.
+**** Hold down a key to be able to grab points and pull them around.
+***** Will get a sphere if it's the nearest to cursor. After moving, a vertex is selected.
+**** key to make a selected vertex into two vertices, spliting.
+
+*** Games
+**** Space Combat
+     Experience goal is an earily soothing combat experience.
+***** Space is a good setting, because slow movement and beautiful backgrounds follow.
+***** Only form of death is floating away into space? Maybe suit puncture as well.
+***** Rotation of view will change to always be under you.
+***** Black and white art mostly? Maybe backgrounds have colour.
+***** Magnetic boots - ground only rotates once you thunk in.
+***** Force players to commit suicide if they float into space.
+***** Music
+***** ability/necessity to rotate in 3d space
+****** Guitar ambience?
+* Crowdsourcing
+** Crowd-source a font on mechanical turk!
+* Motivation
+** I am interested in programming humans, or at least systems containing humans.
+
+** Gamification
+   I want to make the world fun.
+   I want to help people to design games that make learning and understanding fun.
+   I want to make games take the masses of people who are sad and lonely and watching televesion, and make them happy and contributing.
+** Is it better to have a manager make a bunch of people do things, or a writer create a story that makes them want to do it?
+* Theories
+** Human Pattern Machine
+*** Rubrics are patterns - given a rubric, it's easier to evaluate
+*** Maybe we can build a recursive pattern-generator-applier machine out of people
+*** Would be like a scaled up version of what I think the mind is.
+*** With a theory of flow built-in, might overcome some of the problems of recursive mechanical turk.
+
+** My Theory
+*** Game Design boils down to two problems:
+**** What is a good problem? Flow.
+     Various parts of brain? (visual, social, etc)
+     Hooking into universal aesthetic - perfect novelty delta
+     
+**** How to make good problems? Emergence.
+     Feedback loops help make emergence
+     Coupling systems together so lots of combinations
+     Simplicity helps keep roots of system small enough to determine that each part in unique
+     
+** EVERYTHING IS FLOW
+*** Aesthetics requires correct delta between experience and new stimulation to be sufficiently challenging to the player.
+*** It's all cognitive challenge.
+*** Feedback of reading is successfully categorizing knowledge, predicting outcomes
+*** Feedback of aesthetics is pure categorization - fitting it in with things that are familiar.
+*** This is why reading bullshit online is rewarding. Is there some way we can build a machine that makes finding interesting content fun and interesting?
+*** Story
+**** Stories give us world-building, which enables use of our 'understanding the world holistically' hardware for immersive flow experience.
+**** Stories are the main way we get to use our human-interaction muscles.
+** Use of multiplayer
+*** Making the problem arbitrarily harder
+*** Judgement
+*** Group problem solving, part of a team.
+*** Meeting up, socializing
+*** exploring others
+*** Exploring ourselves
+** Direction
+   Current way is more 'pointsification'
+   We want to actually intermingle aestetics and reasons why into the activity. Bring the game into it.
+   Some activities are not intrinsically motivating on their own.
+   They are big activities that don't break down well into meaningful ones.
+   We want to do these activities regardless.
+
+** Modeling fun (Theorem proving approach? 'Fun classes?')
+
+** Comparison of mechanical turk algorithms vs game algorithms
+** Creating information as fun
+*** Maybe we can make games that are more fun because of human computation
+
+** Lazy Evualuation of Human Resources
+
+** Parts of a game
+*** States
+**** Goal states
+** Principles of Game Design
+*** Playtest your game as much as possible
+*** If you're finding yourself writing a lot of loophole rules, you might be in trouble.
+
+** Think about game patterns. Probably read 'A pattern language' to do this.
+*** Player patterns - who vs what?
+
+* Experiments
+** A study on fractals, and the mathematical complexity of their generation vs the perceived beauty
+** Computational Model of Fun
+*** Determine the 'Path' game
+**** Shortest path probably isn't fun
+**** Hamiltonian path probably isn't fun either
+**** This might depend on size of graph
 * Venues
 *** Digra (Digital Games Research Association)
 *** Academic Mind Trek 
@@ -19,48 +311,144 @@
 
 *** CIKM
     http://www.cikm2012.org/
-
 * Resources
 ** The MIT Center for Collective Intelligence
    http://cci.mit.edu/
-
-* Books
-
-* Crowd-sourcing
-** Examples
+* Examples
+** Crowd-sourcing
    Reddit
    StackOverflow
    Wikipedia
    Mechanical Turk
    CrowdFlower
    Innocentive
-   
-* Related Concepts
+** Human-Computation
+   Doulingo
+   Foldit
+   GalaxyZoo
+   hsx.com
+*** How do we structure a community for optimal human computation?
+*** Government
+     
+** HC Frameworks
+*** CrowdDB
+*** Qurk
+*** Turkit
+*** HProc
+* Related Terms
 ** Educational Games
 ** Serious Games
+** Persuasive Games
 ** Flow
 ** Games With a Purpose
 ** Alternate Reality Games
 ** Augmented Reality Games
 
-** Direction
-   Current way is more 'pointsification'
-   We want to actually intermingle aestetics and reasons why into the activity. Bring the game into it.
-   Some activities are not intrinsically motivating on their own.
-   They are big activities that don't break down well into meaningful ones.
-   We want to do these activities regardless.
+** User Generated Content
 
-** Modeling fun (Theorem proving approach? 'Fun classes?')
-* Human Computation
-** Examples
-   Doulingo
-   Foldit
-   GalaxyZoo
-   hsx.com
-** How do we structure a community for optimal human computation?
-** Government
+* Proposal
+
+** Computational Complexity of Fun
+** What have we done before
+** lucio icc
+** Game Theory?
+
+** Writing a Proposal
+*** Background
+    Problem
+    motivation/importance
+    Terminology
+    Related work (past and current)
+*** Objective
+    Specific problem definition
+*** Methodology
+    How to do it
+    Challenges
+*** Impact
+    What if you succeed?
+    Significance
+    Novelty
+*** + Qualifications
+    Put it where it makes sense
+    you are capable of doing this research
+    any good collaborations with known entities
+
+   
+** A section describing the problem, the context/background in which the problem arises, it's importance and similar things
+*** Crowdsourcing
+*** Human Computation
+*** Motivation/Fun
+**** Current approach is 'pointsification'
+**** Some stumble on inherently interesting problems
+
+** A section characterizing the open computing science challenges that you want to work on and how you are planning to address those, i.e., the research methodology that you are going to apply.
+*** Empirical approach
+*** Theoretical derivation of principles
+
+** A section highlighting the significance of the contribution that you expect to make if you succeed in your program, addressing what is innovative about your approach.
+** Computational approach to motivation is novel, i.e. what problems are good for humans and how to transform a boring problem to an interesting one.
+** A section describing the relationship of your approach to what is known about the problem in the related work literature, in particular mentioning how it will advance the field.
+*** Mention number of hours of TV
+*** Idea that solving this problem will help with paid version
+*** Could also address problem of cheating
+
+Flow
+Human Computation
+Problem Transformation
+Toolbox of transformations to align with human cognitive ability and flow.
+
+
+Crowdsourcing is important. Wikipedia, zillions of hours watching TV
+Human computation is a subset of this.
+Some is paid (AMT), some is games (ESP, Foldit)
+
+Important part of this is motivation, even when paid.
+Games are motivating.
+Most games are just points added to tasks 'pointsification' rather than 'gameification'
+
+
+Flow gives us guidlines for building tasks that are intrinsically motivating
+flow works as a video-game analysis tool
+
+Correct level of challenge and immediate feedback are important parts of flow.
+'Pointsification' implementation doesn't address this.
+'Pointsification' can actually be harmful.
+Need a deeper procedure for making games out of things.
+
+I want to design a toolkit of transformations for adjusting the challenge-level and feed-back of human computation tasks.
+
+To evaluate, I will design a GWAP that maps the insides of buildings with photographs
+Indoor navigation is a problem people are trying to solve
+There is an existing game for modeling the outsides of buildings.
+
+Solutions here could carry over to other pervasive computing applications, this is an area that human help is good (building robots to map buildings is hard)
+
+Attempt to build a system for peer-review, major problem in MOOCs is how to have questions that are not multiple choice.
+
+Applications include:
+increasing robustness of tasks. Repurposing human computation energy into self-verification could both increase challeng to appropriate level and increase reliability of results without requiring additional players.
+
+A general increase in quality comes with meaningful work. Will help with paid workers as well as free game players.
+
+Applications in 'Gameification' of organizations as well. General framework for making tasks more engaging.
 
 * INTD 325
+** Affordances Lecture
+*** State, state-markers, etcetera
+**** Explain state
+*** Size of things relates to importance!
+*** Colour of things relates to meaning/importance!
+*** What does the player need to know to make choices?
+*** What choices will the player make most often?
+*** Can you use the thing for what you wanted to?
+*** Up the River tiles slide
+*** Modes
+**** Different modes should look different!
+*** Tips
+**** Steal
+     The familiar is good!
+**** 
+
 ** Playtesting
 *** Q1
 **** What was the core idea for the playable prototype?
@@ -90,196 +478,146 @@
 **** How are you planning to change the game to reach the player experience goals?
      Look at your answers to you questions. Analyze your results and formulate a plan for going forward. What could you do differently? What will stay the same?
 
-* Writing a Proposal
-** Background
-   Problem
-   motivation/importance
-   Terminology
-   Related work (past and current)
-** Objective
-   Specific problem definition
-** Methodology
-   How to do it
-   Challenges
-** Impact
-   What if you succeed?
-   Significance
-   Novelty
-** + Qualifications
-   Put it where it makes sense
-   you are capable of doing this research
-   any good collaborations with known entities
 
-  
-
-* Retroactive human computation
-
-* Lazy Evualuation of Human Resources
-
-* Creating information as fun
-** Maybe we can make games that are more fun because of human computation
-
-
-* CASE THE JOINT
-** How do we get people to take good pictures of businesses?
-** How do we g
-
-
-* Computational Model of Fun
-** Determine the 'Path' game
-*** Shortest path probably isn't fun
-*** Hamiltonian path probably isn't fun either
-*** This might depend on size of graph
-
-
-* Mapping the Insides of Buildings
-** Need to map buildings to 'defend' them?
-** Walking a perimeter
-** Attackers exploit mistakes made by mappers
-** Attackers exploit cheating by mappers, i.e. incentivize identities staying secret.
-** 'The Sea Will Claim Everything'
-** Worth considering providing for 3D modeling
-** Filters to make images really colourful
-** Design roles appealing to women
-*** Emotion
-    Story? Connect with others
-*** Real World
-*** Nurturing
-    Healing other players
-*** Dialog and Verbal Puzzles
-    Dialog-based play
-*** Learning by example?
-*** Multitasking
-*** Less competitive
-
-** Denign roles appealing to men
-*** Spatial reasoning
-*** Destruction
-*** Mastery
-*** Competion
-*** Trial-and-error
-
-
-** Interesting form of appeal
-*** Fantasy
-*** Narrative
-*** Challenge
-*** Fellowship
-*** Discovery
-*** Expression
-*** Submission
-*** Gift giving
-    Could work well with the point-and-click
-*** Humour
-    Funny game
-
-*** Possibility
-    Lots of choices, like a buffet
-
-*** anticipation
-
-*** Shadenfrued
-    
-*** Purification
-    i.e. pacman, should be doable
-
-*** Thrill
-
-*** Suprise
-
-*** Triumph over Adversity
-    Hard, hard stuff.
-
-*** Wonder
-    awe and amazement - maybe some kind of high-level business, or abstract or something.
-
-*** Recursive narrative arc
+* Software Systems
+** Thursday meetings
+*** 11 am to noon
+*** csc 2-49
 
 
 
-** Journey-esque experience in the real world?
-** You take pictures to communicate with another person in real time?
+* Government
+** System for getting people together to solve problems that they all have.
+** Ability to affect local politics.
+** Recursive Democracy
+** Distributed Republic: The game
 
-** If windows give us GPS, make windows the target somehow H
-
-
-* Urban Obstacles
-** Gameness
-*** 'Unlock' obstacles/courses, they show up on the map as places to go.
-    Maybe linear?
-** Database 
-*** Courses
-**** Paths
-**** Obstacles
-*** obstacles
-**** Pics of obstacle
-**** GPS location of obstacle
-*** classifications
-**** parts of body excercised
-**** techniques for obstacle
+* My Website
+** Lab - where I discuss my theories
+** Playroom - my games!
+** Basement - a place for crazy stuff.
 
 
-
-* Money Management Game
-
-* Things to look in to
-** CrowdDB
-** Qurk
-** Turkit
-** HProc
-
-* Comparison of mechanical turk algorithms vs game algorithms
-
-* Crowd-source a font on mechanical turk!
-
-* Generalized Crowd-sourcing Platforms
-
-* NFC
-
-* Proposal
-** Computational Complexity of Fun
-** What have we done before
-** lucio icc
-** Game Theory?
-
-* User Generated Content
-
-* Applications
-** MOOC evaluation
-
-Xuan dominion 1 perudo
-kelly powergrid
-elvis 
-blockus
-lost cities jarrod
-fiasco
-doug wits and wagers
+* We Live In The Future
+** About complexity of modern life
+*** I don't understand the stock/housing market
+*** You play as an assassin
 
 
-* Affordances Lecture
-** State, state-markers, etcetera
+* SQUARES
+** Code Planning
+*** Editor
+*** Pick Layer
+*** Copy layer
+*** Merge layers
+
+*** Overlay image
+*** Move Layer
+**** Make squares
+     click and drag
+**** Move Squares
+***** Select some squares, then drag. Maybe right click is move squares.
+***** Position squares depth by holding a key and dragging. Up-down becomes forward-back.
 
 
-* Is it better to have a manager make a bunch of people do things, or a writer create a story that makes them want to do it?
+** Timeline
+*** Vertical Slice by November 15
+*** Playable Prototype by end of this weekend
+** Story/Events
+** Alt Story
+*** You are an assassin out to assassinate one guy
+*** Buy a meal from a man
+**** Need to find an ATM, but need to colour it first
+*** Androdgenous romantic encounter
+*** Leaving once the areas are coloured (how to punctuate this?)
+*** Go to last place not coloured with romantic partner, talk about how people died here maybe a military base or experiments or whatever, but no actual haunting or anything.
 
 
-* Proposal
-** A section describing the problem, the context/background in which the problem arises, it's importance and similar things
-*** Crowdsourcing
-*** Human Computation
-*** Motivation/Fun
-**** Current approach is 'pointsification'
-**** Some stumble on inherently interesting problems
 
-** A section characterizing the open computing science challenges that you want to work on and how you are planning to address those, i.e., the research methodology that you are going to apply.
-*** Empirical approach
-*** Theoretical derivation of principles
+** Mechanics
+*** Actual
+**** Side-scroller where you can talk to people
+**** A series of levels with different songs and feels
+**** Go from one end of a level to another? Should there be meta-levels? Should the levels all connect?
 
-** A section highlighting the significance of the contribution that you expect to make if you succeed in your program, addressing what is innovative about your approach.
-*** Computational approach to motivation is novel, i.e. what problems are good for humans and how to transform a boring problem to an interesting one.
 
-** A section describing the relationship of your approach to what is known about the problem in the related work literature, in particular mentioning how it will advance the field.
-*** Mention number of hours of TV
-*** Idea that solving this problem will help with paid version
-*** Could also address problem of cheating.
+*** Possible
+**** Point-n-click style interactions with people and things.
+**** You have to colour things to interact with them, but people can always be interacted with
+**** Your mouse's distance from blocks sets the block's saturation? All about mousing?
+**** Finding out about specific things colours them. Interacting with things successfully colours surrounding things.
+**** Maybe you need to get to particular perspectives in order to colour, but some perspectives are only reachable by making something coloured so you can stand on it.
+**** Maybe the only difference between this an another adventure game is that you are trying to colour the world, and to colour something, you need to find out about it somehow. Basically, the colouring is feedback for exploring the world. Maybe you click a thing to find out about, and then go talk to people about it. Click on the island house, then click on people, and ask about it. or there is a way to have a catalogue of things to ask about.
+**** Hovering could reveal some colours around mouse area.
+**** Waves of colour traveling outward in depth might be cool.
+**** Things could actually appear, rather than just becoming coloured.
+**** Figuring out the colours somehow? Trying to spread the colour with some kind of flowy thing?
+
+
+
+** Colour
+*** Colours brighten in your presence, then desaturate. The goals is to brighten the whole place. There are rules about how things make the fading slow or perhaps increase. Maybe something like fireworks really brigtens a place up, or any kind of cultural event type thing?
+*** Maybe you can only stand on coloured boxes/they only function once coloured?
+*** Make things get colour in explosions like pandemic or something
+*** Certain boxes run the music somehow once they are coloured
+
+
+** About searching. Traveling. Why? See new sites, meet new people, journey. Grow. Bring back things you've found. See old places in new ways.
+*** Name could be 'We Live In The Future'
+** Everthing is a square.
+*** Paralax areas
+** Starts off simple. Goal will always be the same, to pass through, get from A to B.
+** Will be a metaphore for all of life, from being young and the world being simple, then chaotic, or whatever, and then dangerous, and then sad, and all that stuff.
+** Squares can do all kinds of things, but only when interacted with. Though the possibility of linking squares is somewhat interesting (spooky squares at a distance)
+** May move toward more definite forms
+** Story? How?
+*** Like a point and click adventure
+** meet people, experience new places
+*** Travel through void rather than pointing and clicking.
+
+** Empty Space
+*** Space between the areas (also squares) is just black. When things are good, the black boundaries between things are just borders. When they are bad, they are abysses.
+*** Could reflect how coloured the world is. Or could be used as part of a linear story pushed forward by the non-linear exploration.
+** Possibility of only having horizontal aligned squares, or of designing a very simple physics system, wherien the player takes on the angle of the box they are on. Or player could be not such a box, so that upright makes sense on these surfaces. Should they slide then?
+** Game should be about people and beauty. No combat.
+** Game should not be about over-the-top heroic world-saving stuff. You should be a person traveling for the sake of it. Goals are important though. Maybe we can make the revealing of the colour of the world make sense as just understanding of place.
+** The point is to see each place in full colour? Though bright colours and such are often a part of a new place. Maybe it fades? Maybe your presense always illuminates things immediately, but you have to sort out how to make the colour stick. Maybe you have to make the whole place colourful at once, which could be doable through people, or through being really fast and skilled, or a combination.
+** Reveal some things about your life that explain why you're searching as you talk to people. Trying to find your place.
+** Sharing experience / joy in other people's pleasure at certain things help brighten.
+** How to distinguish foreground for background - walkable from not?
+   
+* Interfaces lab
+** Private vs public information, and how to make the game express what you want it to. If information is technically private but players aren't forced to reveal it by structure of game, can be irritating.
+
+** Round 1 Questions
+*** What does the a valid setup look like?
+**** A designs
+**** B attempts
+**** A verifies
+
+*** How many player could play this game (Constraint)
+
+** Stuff
+*** Fixed Mechanics
+*** N Questions
+*** Up to N words for theme? or list themes
+*** Components
+*** Protyping kits
+
+
+** Round 2 Questions (see a valid configuration)
+*** What is each piece? What does it represent?
+*** What do you do with it? Does it move, is it a resource? Who knows about this piece? How do you get it?
+
+** What constraints?
+
+** Figure out pieces (compile list of suggestions)
+** Figure out questions (compile list)
+** Figure mechanics (probably grab from list)
+
+
+
+
+** One team speaks their throughts, other observes, then switch, then fix.
+
 

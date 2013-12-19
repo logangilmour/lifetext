@@ -34,8 +34,11 @@
         rs (.executeQuery s query)]
     (jdbc/result-set-seq rs)))
 
+(comment (defn qq [query]
+    (lazy-query "jdbc:postgresql://localhost/postgres" query)))
+
 (defn qq [query]
-  (lazy-query "jdbc:postgresql://localhost/postgres" query))
+  (lazy-query "jdbc:mysql://root@localhost:3306/ghtorrent" query))
 
 (def i (atom 0))
 
@@ -150,8 +153,8 @@
 
 (def question-comment-count {0 1835780, 32 15, 1 528333, 33 22, 2 428016, 34 12, 3 237002, 35 9, 4 157254, 36 8, 5 93643, 37 10, 6 62777, 38 12, 7 37981, 39 9, 8 24244, 40 1, 9 15468, 41 5, 10 10282, 42 1, 11 6930, 43 5, 12 4624, 44 1, 13 3200, 45 3, 109 1, 14 2209, 46 1, 15 1552, 47 2, 16 1142, 48 2, 17 811, 18 582, 50 2, 19 452, 51 1, 20 363, 21 243, 53 2, 22 181, 54 3, 23 127, 24 92, 56 1, 25 81, 26 62, 27 48, 28 44, 60 1, 29 36, 30 28, 31 26})
 
-(do
-(save-pdf (make-histogram (hist (map :comment_count (qq "select comment_count from posts where post_type_id=1"))) "Comments per Question" "Number of Comments (Log+1)" "Frequency of Questions (Log)") "question-comments.pdf")
-(save-pdf (make-histogram (hist (map :favorite_count (qq "select favorite_count from posts where post_type_id=1"))) "Favorites per Question" "Favorites (Log+1)" "Frequency of Questions (Log)") "question-favorites.pdf")
-(save-pdf (make-histogram (hist (map :view_count (qq "select view_count from posts where post_type_id=1"))) "Views per Question" "Number of Views (Log+1)" "Frequency of Questions (Log)") "question-views.pdf")
-)
+(comment (do
+    (save-pdf (make-histogram (hist (map :comment_count (qq "select comment_count from posts where post_type_id=1"))) "Comments per Question" "Number of Comments (Log+1)" "Frequency of Questions (Log)") "question-comments.pdf")
+    (save-pdf (make-histogram (hist (map :favorite_count (qq "select favorite_count from posts where post_type_id=1"))) "Favorites per Question" "Favorites (Log+1)" "Frequency of Questions (Log)") "question-favorites.pdf")
+    (save-pdf (make-histogram (hist (map :view_count (qq "select view_count from posts where post_type_id=1"))) "Views per Question" "Number of Views (Log+1)" "Frequency of Questions (Log)") "question-views.pdf")
+    ))

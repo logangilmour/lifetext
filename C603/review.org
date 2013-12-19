@@ -1,0 +1,30 @@
+* Things that would be cool to see
+** Talk of parameters
+*** Could take a candidate set of classes and see how many parameters would have to be passed for that latice to work, as well has how many levels of indirection would be required to change the approprate parts of those parameters if there were less.
+** Important to note that object oriented is sufficiently different that mapping records to classes might not be sufficient, and maybe misleading?
+
+
+* Thesis
+** Uses and comparisons of Cluster and Concept analysis to suggest candidate objects / methods from a legacy codebase written in COBOL.
+** Most novel seems to be the suggestion for how to break down large records.
+
+
+** In introduction, they highlight that the problem stems in part from heterogeneity, but then go on to analyze just cobol and a database maybe.
+
+** Seems to need records to an extent. Would this work with lisp?
+
+** I would like to see evidence for this fan-out, fan-in business.
+
+** Done with distance-based clustering in a space
+
+* Clustering
+** Algomerative Heirarchical Clustering over distances defined by usage in the same programs.
+
+* Experimentation/validation
+** System experts verify - good!
+** 100 000 LOC, but only one system.
+** Would like to see a run on a different system once changes made maybe, but they seem reasonable.
+
+** I would have liked to have had a little more info on the other uses of concept analysis - how is this approach different?
+
+

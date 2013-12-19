@@ -1,0 +1,2 @@
+* URL for api docs 
+  http://hadoop.apache.org/docs/stable/api/

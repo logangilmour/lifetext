@@ -1,0 +1,38 @@
+* Background
+** Crowdsourcing
+*** Wikipedia
+*** Rise of the Internet
+** Human Computation
+*** Definition
+    Humans solving problems at the prompting of a computer. Problem might be solvable using AI one day, but it is cheaper/easier to use humans right now. (Quinn:2011:HCS:1978942.1979148)
+*** Humans as a part of a system, black-box computation units. 
+** GWAP
+*** ESP
+*** Foldit
+*** Motivation (what is special about this class of Human Computation)
+** Gamification
+* Problem
+** Adding points to some tasks doesn't work
+** Designing good Human Computation tasks
+*** Emphasize computational, systems approach.
+*** Big(0) notation for understanding complexity of computer task
+*** Need an intuitive understanding of complexity of a human task.
+*** Important to stay within upper and lower bounds.
+* Approach
+** Design Patterns
+** Heuristic for good human task
+** Informed by Flow research
+*** Existing work within Video Games
+**** Note that challenge is highlighted as most important in GameFlow
+*** Focus on Challenge and Feedback
+** Indoor Navigation Case Study
+*** Significant Research Exists
+*** Good fit for Human Computation
+* Significance
+** Current GWAPs have varying success
+** Powerful tool for understanding what makes good human computation
+** Powerful tool for creating human computation systems
+* Applications
+** AMT
+** Cheating
+** Increase Thouroghput

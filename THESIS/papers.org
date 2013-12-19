@@ -151,6 +151,40 @@ h***** Create a game session that is moderately short
 
 ** Guess who?: enriching the social graph through a crowdsourcing game. (Guy:2011:GES:1978942.1979145)
 *** 
+** A User-Centered Theoretical Framework for Meaningful Gamification (nicholson2012user)
+*** Background
+**** Using game elements in things that are not games
+**** Criticism in games study
+     Uses scoring system, which is least interesting part of games
+     'Poinstification'
+*** Ultimately about motivation
+    Rewards actually decrease percieved value of internal motivation
+*** Organisimic Integration Theory
+    Deals with integration of External rewards into Internal Motivation
+*** Situational Relevance and Situated Motivational Affordance
+    The information in the gamification system needs to be relevant to the user, they need to care about it. This way in can comprise 'Feedback'
+    Let the user have input on how the system rewards them
+*** Universal Design for Learning
+    Let students choose how to demonstrate they have learned
+    If users demonstrate proficiency in a way not measured, we conflict with this.
+*** Player Generated Content
+    Helps players set their own goals, tuning mastery?
+    Users can create their own gamification
+*** User-Centered Design
+    Users' needs and goals should be at the center of every choice.
+    Helps create meaningless or harmful gamification
+    The score as information; system should be transparent
+    Opposite would be 'How does this benefit the organization?' which makes gamification into external control
+*** Examples of Meaninful Gamification
+**** Pure 'play' experience (no points): Adding piano keys to the stairs to incentivize taking the stairs worked.
+**** Alternate Reality Games
+     Story and activity emphasis instead of scoring
+     Time consuming
+**** Toyota prius tells user what car is doing and why, and helps them try to optimize
+
+     
+** Gamification: Using Game Design Elements in Non-Gaming Contexts (Deterding:2011:GUG:1979742.1979575)
+    
 * Surveys/Taxonomies
 ** A Survey of Human Computation Systems (5283450)
 *** Crummy survey that might have useful directions in it
@@ -184,7 +218,7 @@ h***** Create a game session that is moderately short
 *** New programming languages
     Can imagine a 'social-constraint-programming' type language
 *** New Software Engineering Mindsets 
-** Human Computation: A Survey and Taxonomy of a Growing Field (Quinn:2011:HCS:1978942.1979148)
+** Human Computation: A Survey and Taxonomy of a Growing Field (Quinn:2011:HCS:1978942.197914)
 *** Definition
     The problem is computable, and might one day be solved by computers.
     The system orchestrates the human involvement in the task.
@@ -330,11 +364,80 @@ h***** Create a game session that is moderately short
      Piggyback systems are basically data-mining
 
 
-* Fun
+* Verification
+  
+* Human Computation
+** reCaptcha: Human-based character recognition via web security measures (von2008recaptcha)
+
+* Flow
+** Flow (csikszent1991flow)
 ** GameFlow: a model for evaluating player enjoyment in games (sweetser2005gameflow)
 *** Background
 **** Lots of ways to analyze parts of enjoyment
 **** Flow looks to be most universal
+**** Current heuristics have significant overlap with Flow theory
+*** Flow
+**** Task can be completed
+**** Ability to concentrate on task
+**** Concentration possible because of clear goals
+**** Concentration possible because task provides immediate feedback
+**** Control over actions
+     
+**** Deep and effortless involement. Escape from everyday life.
+**** Self dissapears, but reemerges stronger
+**** Sense of time altered.
+*** Flow in Games
+**** Concentration
+     Stimuli from different sources
+     Stimuli worth attending to
+     Grab players attention immediately and maintain it
+     No unimportant-feeling tasks
+     Workload should be high, but appropriate given perceptual, cognitive, and memory limits
+     Players should not be distracted from things they need to do
+**** Challenge
+     Most important part!
+     Need to make sure challenge is just right
+     Therefore, differing levels of challenge are required for different players
+     Challenge should increase with skill
+     New challenges should be appropriately introduced
+**** Player Skills
+     Shouldn't need to read the manual
+     Learning the game should be part of the fun
+     Players shouldn't need to exit the game to get help
+     tutorials that feel like the real game good
+     Players should be forced to improve at a good pace
+     effort and skill-development should be rewarded
+     game interfaces and mechanics should be apparent
+**** Control
+     Players should feel that they control things in the game
+     Players should feel they can control the interface?
+     Players should feel they control the actual game (pausing, saving, stopping, etcetera)
+     Players should not be able to make errors that mess up the game, and they should be aided in recovering from such errors when they happen
+     players should feel they are shaping the game world
+     players shouldn't feel like they are discovening strategies intended by developers
+**** Clear Goals
+     Overriding goals should be clear and presented early
+     Intermediate goals should be clear and presented when most relevant.
+**** Feedback
+     Players should know how close they are to their goals.
+     players should receive immediate feedback on actions
+     Players should always know their status/score
+**** Immersion
+     Players should become less aware of their surroundings
+     Players should become less aware and worried about their life and self.
+     Players should feel an altered sense of time
+     Players should feel emotionally involved in the game
+     Players should feel viscerally involved in the game
+**** Social Interaction
+     Games should support competition/cooperation between players
+     Games should support social interaction between players
+     Games should support communities outside the game
+*** Evaluation
+**** Warcraft 3 vs Everquest
+     Warcraft 3 rated better by people, approximately equal ratings from framework
+
+     
+** Flow in games (and everything else) (chen2007flow)
 
 
 * Camera Mappinbg
@@ -356,8 +459,7 @@ h***** Create a game session that is moderately short
 *** Real World Deployment
 **** 3D navigation not great
 **** Directions and 2d map good
-
-    
+  
 ** Survey of Optical Indoor Positioning System (mautz2011survey)
 *** Reference from 3D models
 *** Reference from Images
@@ -406,6 +508,7 @@ h***** Create a game session that is moderately short
      Reputation maneagment is difficult, because users are creating problem descriptions.
      Could have allowed better workers more power maybe    
 
+     
 * Human Factors
 ** Shepherding the Crowd Yields Better Work (Dow:2012:SCY:2145204.2145355)
 *** Task Specific Feedback will Help?
@@ -458,7 +561,6 @@ h***** Create a game session that is moderately short
 **** Quantity increases with meaning
 **** Quality decreases when told work will be discarded.
 
-
 ** Man's search for meaning: The case of Legos (ariely2008man)
 *** Experiment 1
 **** Declining wage finding letters
@@ -475,6 +577,7 @@ h***** Create a game session that is moderately short
 
 * Semantic
 ** Human Computation for Attribute and Attribute Value Acquisition (law2011human)
+
 
 * Algorithm Design
 ** Deco: Declarative Crowdsourcing (Parameswaran:2012:DDC:2396761.2398421)
