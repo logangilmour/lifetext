@@ -1,0 +1,7 @@
+(ns parser.core-test
+  (:use clojure.test
+        parser.core))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))

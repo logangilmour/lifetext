@@ -1,0 +1,425 @@
+November 7th, 2012:
+I realized that the player character in Blink should eat tiny people to turn the sky black and be capable of fighting the void.
+
+November 8th, 2012:
+I decided to make the Void grow fractally, the puzzle being to contain the fractal expansion by learning its rules.
+
+November 9th, 2012:
+I started generalizing my tree algorithm; it seems that going as far as coniferous and deciduous with one algorithm might be too general.
+
+November 10th, 2012:
+I thought about seriously trying to make money with art videogames today.
+
+November 11th, 2012
+Busyness is the default state of the dying human.
+
+November 12th, 2012
+I discussed respect with Kirby and decided that I am respectful within a limited definition of the term.
+
+November 13th, 2012
+When I'm done, I'll build a zepplin and roam the skies.
+
+November 14th, 2012
+Through CMPUT 250 I've rediscovered the distraction-free joy of the work-period between midnight and six A.M.
+
+November 15th, 2012
+Final all-night slog on our CMPUT 250 game beta.
+
+November 16th, 2012
+I saw Don Hertzfeldt's "It's Such A Beautiful Day" and got very drunk after abandoning our beta.
+
+November 17th, 2012
+I have a hangover.
+
+November 18th, 2012
+I found out from Jedd that he's been getting into making electronic music.
+
+November 19th, 2012
+I figured out how to run Overtone Clojure code from inside an Emacs buffer.
+
+November 20th, 2012
+I started reading "The Tao of Pooh".
+
+November 21st, 2012
+I finished reading "The Tao of Pooh", as well as beginning to learn SuperCollider for programmatic music synthesis.
+
+November 22nd, 2012
+I drank chamomile tea, which now apparently reacts with my increasingly volatile sleep-system to produce insomnia.
+
+November 23rd, 2012
+I'm coming to the realization that I want to work on video-games for kids, games that are what "Adventure Time" is to cartoons, or "The Wind in the Willows" to books.
+
+November 24th, 2012
+Sitting on the beach facing the ocean simplifies my mind in all four dimensions.
+
+November 25th, 2012
+I don't like analyzing art and writing about it - I'd much rather let ideas stay in their holistic form where they can be properly understood.
+
+November 26th, 2012
+Even a millisecond ago is the past.
+
+November 27th, 2012
+It's easier to go to sleep when I see the next day as being a mostly positive entity.
+
+November 28th, 2012
+Game Idea: A 2d square-tile platformer with high-speed combat puzzles in cellular-automata force gradients.
+
+November 29th, 2012
+I've decided to try to get a bunch of people together into a team to build this gravity game.
+
+November 30th, 2012
+I want to build a small game in which you observe your character engaging in far-off desert gun-battles in static scenes with muffled far-off gunshots and yells.
+
+December 1st, 2012
+Every human is a beautiful compounding of complexities, and to destroy such complexity is to brutally send the universe backward in time to the detriment of all.
+
+December 2nd, 2012
+Sometimes you have to lean back and ask yourself "What the fuck am I up to here exactly?"
+
+December 3rd, 2012
+I have about five months to get my body and mind ready for adventuring.
+
+December 4th, 2012
+I walked home at 4am in gentle snow listening to a good book.
+
+December 5th, 2012
+CMPUT 250 game is done.
+
+December 6th, 2012
+Forgot to do my last homework assignment.
+
+December 7th, 2012
+Thinking about a girl.
+
+December 8th, 2012
+Had a pleasantly easy time getting heat haze fragment shaders into "Sunset".
+
+December 9th, 2012
+Started reading 'The Information' by James Gleick.
+
+December 10th, 2012
+As I plan LiveBook, I'm getting a good feeling about building software again: specifically I am finding a new and healthier balance between art and automation.
+
+December 11th, 2012
+My abdominal pain appears to be correlated fairly strongly with stress, as I felt pretty good today with its absence.
+
+December 12th, 2012
+I wondered how I would feel having had sex with random strangers from the internet.
+
+December 13th, 2012
+I brute-force slammed as much of Film Studies 100 into my head as I could in preparation for an exam.
+
+December 14th, 2012
+I've gotten far too good at drinking too much.
+
+December 15th, 2012
+Rationalizing about my money situation.
+
+December 16th, 2012
+Read about pop culture all goddamned day.
+
+December 17th, 2012
+My kidneys hurt.
+
+December 18th, 2012
+Prostatitis?
+
+December 19th, 2012
+I'm falling in love with Paredit.
+
+December 20th - 26th
+General Drinking, Skiing, and Christmasing with my family.
+
+December 27th, 2012
+Decided on the setting for the opening scene of "The Maw of Galfrax."
+
+December 28th, 2012
+Learned about normal mapping and found some good tools for doing it by hand.
+
+December 29th, 2012
+Learned the drinking game "Three-man."
+
+December 30th, 2012
+Confused and titilated by Akira at the Garneau.
+
+December 31st, 2012
+Drank.
+
+January 1st, 2013
+Hangover.
+
+January 2nd, 2013
+An ultrasound followed by a nice breakfast.
+
+January 3rd, 2013
+Starting on the game of the month: The Crystals of Cloudland.
+
+January 4th, 2013
+Attended Giselle's Birthday and was successful in not getting too wasted.
+
+January 5th, 2013
+Drew Herb's Place in The Crystals of Cloudland.
+
+January 6th, 2013
+Figured out fog fragment shaders for attenuation of infinite paralax of the linkage dimension of The Crystals of Cloudland.
+
+January 7th, 2013
+Got my computer pen tablet in the mail, and it's as slick as I'd hoped.
+
+January 8th, 2013
+I'm so happy with my classes in my final term that I shaved my head.
+
+January 9th, 2013
+Paralax clouds in The Crystals of Cloudia look suprisingly sweet.
+
+January 10th, 2013
+Animating tiny characters is fun and easy with ASEPRITE and my new tablet Yay!
+
+January 11th, 2013
+Drank too much while playing board-games for class - I can't remember enough about the games to do a write-up on them.
+
+January 12th, 2013
+Built an Engineer Bag as I require a heavy thing to lift, and came to the conclusion that I should start a distributed republic.
+
+January 13th, 2013
+I worked on an independent study course in which I will hopefully investigate the idea of distributed organizations, and I finished Liza's awesome glider animations for The Crystals of Cloudia.
+
+January 21st, 2013
+Sorted out a component-oriented design for The Crystals of Cloudia that lets me easily move around and save data in the game and the level editor.
+
+January 25th, 2013
+Thinking about making The Crystals of Cloudia into some sort of dynamic dialog generation game based on a graph of relationships.
+
+January 27th, 2013
+Saw "The Third Man" at the Garneau.
+
+January 28th, 2013
+Started working toward a more organized life.
+
+January 29th, 2013
+Decided I hate slinkies.
+
+January 30th, 2013
+I have a motherfucking cold.
+
+February 3rd, 2013
+I have beaten the cold.
+
+February 4th, 2013
+I spend too much time dreaming of the wild yeti-hunt.
+
+February 7th, 2013
+Showed my interactive art piece in class, and it seems to have been pretty well recieved.
+
+February 8th, 2013
+I got so drunk I played punchies, fell down some stairs, and violently high-fived people until I spilled a whole drink, then went home and played piano wasted.
+
+February 9th, 2013
+Went to Devon's birthday and drank a reasonable ammount.
+
+February 10th, 2013
+I started getting ready for real life by talking to Dad about my resume.
+
+February 11th, 2013
+I took a cab home.
+
+February 12th, 2013
+I analyzed some of the problems in my life, traced them back to their causes, and attempted to find fixes for them.
+
+February 13th, 2013
+I aspired to be more oceanic.
+
+February 17th, 2013
+Played through the first song I've written for our new band Trees are Tall.
+
+February 18th, 2013
+Too much alcohol over the last several days.
+
+February 19th, 2013
+I read a great article on how to sleep better, which will hopefully solve some of my own sleeping problems.
+
+February 20th, 2013
+I dredged in awful copy-pasting toil all goddamned day.
+
+February 21st, 2013
+Figured out how to run static blog software on GitHub so that I can eventually propogate my stupid ideas to the world.
+
+February 22nd, 2013
+Enjoyed the movie "Youth in Revolt".
+
+February 23rd, 2013
+I have it on good authority that life is actually pretty great.
+
+February 24th, 2013
+I started reading The 4-hour Workweek.
+
+February 25th, 2013
+I had my first day without email notifications, Reddit, Facebook, and Hacker News in a long time, and I felt great.
+
+February 26th, 2013
+I think I am on my way to actually doing things in life!
+
+February 28th, 2013
+I had my pupils dialated with drops so that my optometrist could look at my retinas.
+
+March 2nd, 2013
+Started building a new website based on Jekyll Bootstrap hosted on Github.
+
+March 3rd, 2013
+I finished building my new website and blog, and put up my first post!
+
+March 4th, 2013
+I hammered my head on databinder all day.
+
+March 5th, 2013
+Oh god such a fucking flu I had while working on databinder today.
+
+March 8th, 2013
+Quiet night in stuffing my face with garbage and watching Raging Bull.
+
+March 9th, 2013
+Pretty much ready to try a first implementation of data-binder.
+
+March 10th, 2013
+Worked on data-binder.
+
+March 11th, 2013
+Data-binder successfully bound an rdf description of a view to rdf data!
+
+March 12th, 2013
+Excellent meeting with Micheal in which I found out about an interesting learning project, had several books recommended to me, and got some good advice on writing better.
+
+March 13th, 2013
+Data-binder did real-time synchronization of string-literals between browsers!
+
+March 15th, 2013
+I am currently very much enjoying Philip K Dick's A Scanner Darkly.
+
+March 16th, 2013
+Planned out and mostly wrote my paper on the Problem of Induction.
+
+March 17th, 2013
+Found out about the Root Locus from Don during an interesting chat that also touched on the ethics involved publishing interesting discoveries.
+
+March 18th, 2013
+I want to make music, contribute to knowledge, and build abstract machines.
+
+March 19th, 2013
+I think it's time for a new solo music project.
+
+March 31st, 2013
+Considered the ethical implications of distributing databinder in a variety of different forms, and ended up publishing it under the AGPL.
+
+April 2nd, 2013
+Handed my sketchy philosophy paper in feeling highly unsure of what grade it will receive.
+
+April 3rd, 2013
+Stayed up till 4am making noise for my art-based research class's AGA exhibit.
+
+April 4th, 2013
+Rewatched Drive, which is sweet.
+
+April 10th, 2013
+I did great on that stupid philosophy paper.
+
+April 11th, 2013
+Our game 'Lightning Bikes in London' came out amazingly well, and it has re-invigorated my desire to make good games.
+
+April 12th, 2013
+Played board-games for three hours in my last class of my undergraduate degree.
+
+April 13th, 2013
+I refactored databinder to be more internally consistent and simple.
+
+April 14th, 2013
+I got javascript-based view templating working in data-binder, and came to the realization that I should be able to replicate a data-binder instance simply by pointing another blank data-binder instance at it.
+
+April 15th, 2013
+I started reading 'Blackfoot Physics', which has been totally excellent.
+
+April 16th, 2013
+I've come to the conclusion that I like writing some of the time, and that I just need to cleanly sepparate the writing process from the editing process in order to like it all of the time.
+
+... Start Grad School, hate Grad School, quit Grad School, get job. ...
+
+April 13th, 2014
+Oddly close to a year since I decided to start doing this again as part of my awareness value and my internal adventures project.
+
+April 14th, 2014
+Broke my longest fast yet (~37 hours) and resolved to go on a MicroAdventure this friday as part of my new adventure-oriented life.
+
+April 15th, 2014
+Hungry and on edge while attempting to apply the sweet typography stuff I'm learning from "The Elements of Typographic Style".
+
+April 16th, 2014
+Getting closer to figuring out the magic spark of Adventure Time and other such things so that I can use it to help people better their lives.
+
+April 17th, 2014
+I suspect that rapid weight-loss is causing stones to form in my bile duct.
+
+April  18th, 2014
+Weighed in 2 pounds and a bit above my goal, and decide I've come far enough to start eating a little more and focusing on recomposition.
+
+April 19th, 2014
+Delicious Easter Dinner with my family, but didn't drink to much and went to bed at a decent time.
+
+April 20th, 2014
+Figured out the domain of the thing I want to write: AdventurePatterns.com!
+
+April 21st, 2014
+Made new friends at the rockwall, and climbed the highest-numbered rip-and-grip bouldering problem I ever have.
+
+April 22nd, 2014
+Figured out a dried fruit and nut daily meal.
+
+April 23rd, 2014
+Cycled to work in the rain, which prompted me to buy rain pants at lunch.
+
+April 24th, 2014
+Sick, ate lots of oranges and watched adventure times.
+
+April 25th, 2014
+Got rid of many things.
+
+April 26th, 2014
+Moved the Organ and set up Futura on Adventure Patterns!
+
+April 27th, 2014
+Got the blog pared down to the parts I need and did some decent recording with Trees are Tall.
+
+April 28th, 2014
+Added Minion to Adventure Patterns, and resolved to stop swearing.
+
+April 29th, 2014
+Had a beer that I didn't really enjoy and figured out most of the typography on Adventure Patterns.
+
+April 30th, 2014
+Excited by a logo Mathias has been making for adventure patterns, sorted out simple comments on the blog, and had fun watching people make Drank in the office.
+
+May 1st, 2014
+Duncan's RAW thing was cool (maybe I will do it?), also lead the prow at virg and felt great.
+
+May 2nd, 2014
+Read Adventure Time Volume II by Ryan North, and loved it.
+
+May 3rd, 2014
+Serious money from grandpa, and found out Nathan has been in therapy and that it's working.
+
+May 4th, 2014
+Discovered the low-reward diet and saw a nice choral thing with Mom, Nana, and Papa.
+
+May 5th, 2014
+Started writing an Eating Twice a Day post and met more people climbing.
+
+May 6th, 2014
+First day on the low-reward diet: felt suddenly hungry and deprived around 4pm, then ate potatoes, otherwise felt good.
+
+May 7th, 2014
+Good day of low-reward, felt great at points (band practice), though something in my diet messed up my voice and made it tight.
+
+May 8th, 2014
+Feeling much less hungry and a fair bit happier, and met more friends at the wall.
+
+May 9th, 2014
+Some strange moodiness in the afternoon, had considerable trouble not ruminating on an accidentally and unintentionally offensive thing I said, popcorn less exiting and more satisfying, a secret birthday!
+

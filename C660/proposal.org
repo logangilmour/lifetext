@@ -1,0 +1,43 @@
+* Things to figure out
+** Can I sort out which libraries are 'foundational' and which are 'aggregates'? I.e., which projects don't have many imports outside of the standard library?
+** Can I cluster libraries somehow? Do patterns of imports have anything to do with type of project? This would capture foundational imports, in that they would match a pattern that involved java standard-lib imports probably.
+** Given a project, if I get projects that have a similiar signature (i.e. set of imports) will that mean anything?
+** We have the data for age of projects. Maybe we can determine a metric that takes that into account.
+
+** Theories: Age will correlate with popularity. More popular repositories will have been around longer, and will 
+
+
+
+function func(things){
+dostuff();
+domorestuff();
+donenow();
+}
+
+{
+dostuff();
+domore();
+donenow();
+}
+
+
+
+{"one" "two" "three"}
+
+a1={"one"; "two"; "three";}
+
+
+
+
+
+f1={
+"one";
+"two";
+"three"
+}
+
+Tokens
+blists
+Patterns
+
+

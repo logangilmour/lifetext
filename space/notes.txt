@@ -1,0 +1,40 @@
+The God(s) of Space
+
+Hotline-miami-esque controls, with caveat that rotation to face cursor happens according to feedback controls so the rotation is more realistic.
+
+Very simple black-and-while line graphics.
+
+Maybe build a level-editor FIRST and then derive the game from that.
+
+Explore old space-stations and asteroid fields.
+
+What is the goal? Mindless, wandering understanding?
+
+The massiveness of space destroying the self and belief - annihilation of god.
+
+Fucking around with old space-stations that will defend themselves with turrets and drones and whatever.
+
+Pseudo-realistic sound, in that you don't hear anything that doesn't contact your ship. Whoosh of a missile, then clatter of debris.
+
+Lonelyness
+
+Acoustic guitar music because fuck you.
+
+Getting from place to place. Maybe just a map? Part of the point of not just missiling the bases is to find out where the other bases are first by docking. 
+
+These things are basically pests left over from something unknown - maybe an old alien race, maybe an old earth colony, whatever.
+
+Information communicated about locations and weaknesses of other stations through story.
+
+Maybe eventually stations know more and more about you and start sending out probes to kill you and stuff.
+
+Colours indicate hostility, maybe damage, whatever.
+
+Things have state such as: player-controlled, hostile, vital, etcetera. Vital things being destroyed ends the game. Hostile things attack you and won't attack other hostiles.
+
+About lonelyness and human interaction mitigated by machines.
+
+You have the option to not destroy the stations, but it's easy to do so once you've found the locations of the others.
+
+In fact, you should be able to progress through the game in many different ways.
+

@@ -1,0 +1,77 @@
+* Dragon Conquest
+** Notes
+*** Fun
+**** Action programming worked nicely!
+**** Do I want to help the dragon? Since friendly fire is allowed, why don't I just keep killing the dragon?
+**** Is it possible to win as the dragon? Big advantage for humans to always go first - can have guaranteed hits. 
+**** Dragon was frustrated because going last meant no plans.
+**** Non pre-determined rotate/warps really nice.
+**** some lack of depth - most of the game was setting up to hammer on the first turn with buffs and stuff.
+**** Warrior could have been more defensive? Think WOW where warrior distracts and projects.
+**** If you get all moves or all attacks it's a bit of a bummer - would be nice to have had some kind of alternative.
+**** What if you come back and you lose turn 1, then turn 2, then turn 3, then permadeath?
+**** What if do nothing cards healed?
+**** What if the dragon was just random movements?
+*** Prototype
+**** Symbology a bit confusing.
+**** arrow looks like a plus on fire breath.
+*** Rules
+**** Frozen is a bit confusing on the card - easy to miss that it doesn't just describe the attack.
+**** Do Nothing? Says (move) - what does this mean?
+**** Can technically turn 720 degrees?
+**** Can flight let you rotate?
+**** Battle cry - wording confusing on buffs - each has different wording.
+**** 'Intentional' in italics for leapfrogging - what?
+**** Do the other players win if the dragon wins?
+*** Constraints
+**** 41 minutes
+
+** Grades
+*** Fun: 6.5
+*** Protoype: 7.8
+*** Rules: 6
+*** Constraints: 8
+
+* Garden's Divide
+** Time: 1:07
+** Notes
+*** Fun
+**** Very hard to win combat as the aggressor - no one ever did.
+**** Initial placement is almost the whole game.
+*** Prototype
+**** Nice prototype - liked that the paperclips matched the colours.
+**** Tokens were nice and easy to handle.
+**** Folding board was a little awkward - the edges curled and things would get caught underneath.
+*** Rules
+**** Why no summoning minion explanation?
+**** We assumed you place planter and flower simultaneously to start?
+**** When does combat happen? You say combat happens immediately on entering another's teritorry, but then specify that you just discard two attack cards and replace the flower in another section.
+**** Where do we summon minions to?
+**** What happens when 2 players share a plot where one player has a flower
+**** What happens when two planters are on a third planters territory?
+**** What happens if two minions are on the same space?
+**** What is the other win condition?
+**** How many actions to move to a claimed plot and replace?
+**** Why wait until later for charm to resolve?
+**** Can you summon a minion to a contested plot? What happens when a minion wins when a minion is summoned to a contested plot?
+**** What does retreat three mean? Can you go in a circle sortof?
+
+*** Constraints
+**** Matched card well
+**** Played in barely over an hour - good!
+**** played correct number of players
+* Shank'n Bribe
+** Time 32 minutes
+** Notes
+*** Fun
+**** Guards don't do very much. Ours stayed in the courtyard. Map is very connected, so getting moved matters little.
+**** Why a bonus for 3?
+**** We never got anywhere near the hand limit. Why is discarding an action?
+**** There's not much to do in the game.
+*** Prototype
+**** Missing 4 from black cards.
+**** Guards were too similiar.
+*** Rules
+**** Can you pass through rooms that others control? 
+*** Constraints
+**** Set collection not really met - basically got stuff then got found where it fit.

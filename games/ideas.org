@@ -1,0 +1,125 @@
+* HTML Adventure Engine
+** Features
+*** music
+**** One song for each room
+**** Music is continuous between rooms with the same song
+**** Some rooms don't change mood - song always stays as whatever it was prior.
+*** Rooms
+**** Have click-regions
+*** Click-regions
+**** Change the room
+**** Edit the inventory
+**** Run a script
+
+*** Actions
+**** Change Current Room
+**** Add thing to inventory
+**** Talk (basically go to a talking room?)
+**** Inspect (get some text about a thing)
+
+*** Conversations
+**** Trees? Or more like lands of dream where it's just a bunch of one-offs?
+**** Conversation nodes should definitely be scriptable, and should be able to trigger scripts.
+
+*** Movement
+**** Would be good for arrow keys to work
+**** A little map showing your position and orientation would be nice, though it might be frustrating to not be able to achieve certain orientations, and I certainly don't want to draw them all... unless I do. Though having to draw multiple zooms of a particular direction could be tedious. Nope. Don't want to do that. Maybe scratch arrow-key based navigation. Should be primarily clicking. But directions should be built into screen better - don't want to go to the bottom to move. Maybe just highlighted regions of the screen. Or a region of the screen causes an arrow to appear to the top, left, right, or bottom, indicating movement is possible in that direction. Maybe not even an arrow - that side of the border just glows a bit. 
+
+** Editor
+*** Manage rooms (might want to swap one image for another to effect a change to it)
+*** Add click-regions to rooms (drag boxes, click to select, click again to delete)
+
+
+
+
+* Games to play
+** Myst
+** Resonance
+** I have no mouth and I must scream
+** Dear Esther
+** Grim Fandango
+** Gone Home
+** Sam and Max
+
+
+* Walking Dead
+** Time makes it tense
+** Faces sometimes leave something to be desired.
+** Clicking indicators work well
+** Navigation model works well, though sometimes animations tedious when moving between rooms lots of times
+** I CARE ABOUT THESE CHOICES
+** Doesn't really have trees, though it has one-time conversations that matter that have depth.
+
+
+* Lands of Dream
+** Clicking on lots of little things and having stuff to read is great, fills out world.
+** Feels full despite lack conversation trees.
+
+* HTML Tags
+** Room: a room. Things in it are clickable. Those things have locations and sizes (They're rectangles). When clicked they do stuff.
+** Text: Makes the text bar at the bottom of the screen (or something like that) show some text.
+** Script: Executes a script when the parent is clicked.
+** How to make a tag displayed conditionally? Is that an attribute, or a parent container?
+
+
+
+* Kentucky route zero
+** Poetry aspect feels strained at times
+** Conversations feel like amnesiac labrynths because of lack of choice seeming to matter
+** Underground world feels good
+** Showcases minimalist art style
+** Lack of faces makes it feel a bit removed.
+** Delay on clicking for dialog, etcetera feel ponderous. If I'm going to go slow, I'LL GO SLOW MYSELF. Same with the appearing text.
+** I like the text conversations on black backgrounds. I like the 'Name: text' format.
+** Interesting that magical realism allows for justifiable strange logic.
+
+* I have no mouth and I must scream
+** The book is interesting.
+** The inventory works well - I like that it's visual and always around.
+** The fact that I need to look at certain things before others become investigable is irritating.
+** The fact that I can 'die' is horrendous.
+
+
+* Ideas
+** I want to be able to always talk to people about lots of things. 
+** I want people to be able to beckon me somehow, and greet me with new information, rather than making me always pull it out of them.
+** Cool to have levels where you travel vertically, i.e. descending through dark chasms.
+** Simpler world. Imagine if we didn't have oil - if most things were solar and battery powered. Maybe those systems would be easier to repair, keep up, etcetera because the infrastructure would be far less.
+
+* Searching for meaning in the universe - the key to understand why it's here. does that even exist?
+* Traveling at different cardinalities of infinite speed through the everything.
+
+* First (large?) game will be about lonelyness and building community.
+** A man spills a drink on his hand, does not drop it, burns himself a little, doesn't wreck the carpet, he is part of the house-person system, by burning himself he actually buys more life by not having to take time to clean the carpet.
+** The mind goes in loops, doesn't wreck itself, solves unsolvable problems my careful tuning, though some people are tuned wrong (mental illness). It seems suprising that more people aren't mentally ill.
+** Explore a baren waste, find people/creatures, bring them together, make a place.
+** Strange crossings of worlds - bits of a city wall stuck in a mountain type stuff
+** Notes page
+
+
+* Gome played in the forest, much like the house. Can photograph things and use them as a base.
+
+* Principles
+** Access restriction is good, to a degree. Too much, and you end up being bored. 
+*** Strange, secret places feel cool. Being locked in a building is a bummer.
+*** Going through a bunch of rooms that look the same to find things sucks.
+*** Finding things to click on is dumb. I want to know where things are.
+
+** People to talk to is good. 
+** Direction is good. Figuring out what you're supposed to be doing is tedious if it isn't obvious.
+
+
+* A game where you move troops on a map and the world you visit is affected would be awesome. Got to figure that out.
+
+* With the right base, this engine should be able to do my 'interested parties storytelling simulation game'.
+
+
+
+
+* Games Still Out
+** Blokus - Pierce
+** Can't Stop - Kelsey?
+** Hive - Xuan
+** Lost Cities - Kelly
+** Wits and Wagers - Jordan?
+

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="809" version="1.1" width="748" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#ffffff" height="160" stroke="#ffffff" stroke-width="1" width="224" x="230" y="80"/>
+<rect fill="none" height="160" stroke="#000000" stroke-width="1" width="224" x="230" y="80"/>
+<text font-family="Lucida Grande" font-size="13" x="328" y="94">
+Post</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="224" x="230" y="104"/>
+<text font-family="Lucida Grande" font-size="13" x="234" y="119">
+Score : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="234" y="136">
+Body : String</text>
+<text font-family="Lucida Grande" font-size="13" x="234" y="153">
+Last Editor Display Name : String</text>
+<text font-family="Lucida Grande" font-size="13" x="234" y="170">
+Last Edit Date : Date</text>
+<text font-family="Lucida Grande" font-size="13" x="234" y="187">
+Last Activity Date : Date</text>
+<text font-family="Lucida Grande" font-size="13" x="234" y="204">
+Community Owned Date : Date</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="224" x="230" y="216"/>
+<rect fill="#ffffff" height="120" stroke="#ffffff" stroke-width="1" width="152" x="22" y="56"/>
+<rect fill="none" height="120" stroke="#000000" stroke-width="1" width="152" x="22" y="56"/>
+<text font-family="Lucida Grande" font-size="13" x="67" y="70">
+Comment</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="22" y="80"/>
+<text font-family="Lucida Grande" font-size="13" x="26" y="95">
+Score : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="26" y="112">
+Text : String</text>
+<text font-family="Lucida Grande" font-size="13" x="26" y="129">
+Creation Date : Date</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="22" y="146"/>
+<rect fill="#ffffff" height="232" stroke="#ffffff" stroke-width="1" width="176" x="558" y="80"/>
+<rect fill="none" height="232" stroke="#000000" stroke-width="1" width="176" x="558" y="80"/>
+<text font-family="Lucida Grande" font-size="13" x="632" y="94">
+User</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="176" x="558" y="104"/>
+<text font-family="Lucida Grande" font-size="13" x="562" y="119">
+Reputation : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="136">
+Creation Date : Date</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="153">
+Display Name : String</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="170">
+Email Hash : String</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="187">
+Website URL : String</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="204">
+Age : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="221">
+About Me : String</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="238">
+Views : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="255">
+Up Votes : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="562" y="272">
+Down Votes : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="176" x="558" y="286"/>
+<rect fill="#ffffff" height="88" stroke="#ffffff" stroke-width="1" width="151" x="14" y="208"/>
+<rect fill="none" height="88" stroke="#000000" stroke-width="1" width="151" x="14" y="208"/>
+<text font-family="Lucida Grande" font-size="13" x="75" y="222">
+Vote</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="151" x="14" y="232"/>
+<text font-family="Lucida Grande" font-size="13" x="18" y="247">
+Type : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="264">
+Creation Date : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="151" x="14" y="274"/>
+<polyline fill="none" points="262,80 262,56 173,56" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="262,80 257,70 262,60 267,70" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="262,80 257,70 262,60 267,70" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="179" y="50">
+Comments</text>
+<text font-family="Lucida Grande" font-size="13" x="240" y="74">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="179" y="71">
+0..*</text>
+<polyline fill="none" points="558,120 453,120" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="558,120 548,125 538,120 548,115" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="558,120 548,125 538,120 548,115" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="467" y="136">
+Owned Posts</text>
+<text font-family="Lucida Grande" font-size="13" x="541" y="112">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="464" y="114">
+0..*</text>
+<polyline fill="none" points="230,239 164,239" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="230,239 220,244 210,239 220,234" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="230,239 220,244 210,239 220,234" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="171" y="254">
+Votes</text>
+<text font-family="Lucida Grande" font-size="13" x="213" y="231">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="172" y="233">
+0..*</text>
+<polyline fill="none" points="638,80 638,16 94,16 94,56" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="638,80 633,70 638,60 643,70" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="638,80 633,70 638,60 643,70" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="344" y="31">
+Owned Comments</text>
+<text font-family="Lucida Grande" font-size="13" x="617" y="68">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="101" y="51">
+0..*</text>
+<polyline fill="none" points="453,224 558,224" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="453,224 463,219 473,224 463,229" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="453,224 463,219 473,224 463,229" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="472" y="245">
+Last Editor</text>
+<text font-family="Lucida Grande" font-size="13" x="462" y="217">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="531" y="219">
+0..1</text>
+<ellipse cx="505" cy="222" fill="#000000" rx="0.5" ry="0.5" stroke="#000000" stroke-width="1"/>
+<ellipse cx="506" cy="223" fill="#ffffff" rx="-0.5" ry="-0.5" stroke="#ffffff" stroke-width="1"/>
+<rect fill="#ffffff" height="156" stroke="#ffffff" stroke-width="1" width="160" x="14" y="488"/>
+<rect fill="none" height="156" stroke="#000000" stroke-width="1" width="160" x="14" y="488"/>
+<text font-family="Lucida Grande" font-size="13" x="65" y="502">
+Question</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="14" y="512"/>
+<text font-family="Lucida Grande" font-size="13" x="18" y="527">
+Closed Date : Date</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="544">
+Title : String</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="561">
+Tags : String</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="578">
+Answer Count : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="595">
+Favorite Count : Integer</text>
+<text font-family="Lucida Grande" font-size="13" x="18" y="612">
+View Count : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="14" y="622"/>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="66" x="190" y="488"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="66" x="190" y="488"/>
+<text font-family="Lucida Grande" font-size="13" x="200" y="502">
+Answer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="190" y="512"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="190" y="533"/>
+<rect fill="#ffffff" height="71" stroke="#ffffff" stroke-width="1" width="104" x="270" y="352"/>
+<rect fill="none" height="71" stroke="#000000" stroke-width="1" width="104" x="270" y="352"/>
+<text font-family="Lucida Grande" font-size="13" x="308" y="366">
+Wiki</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="104" x="270" y="376"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="104" x="270" y="399"/>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="107" x="390" y="352"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="107" x="390" y="352"/>
+<text font-family="Lucida Grande" font-size="13" x="395" y="366">
+TagWikiExcerpt</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="107" x="390" y="376"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="107" x="390" y="397"/>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="66" x="510" y="352"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="66" x="510" y="352"/>
+<text font-family="Lucida Grande" font-size="13" x="518" y="366">
+TagWiki</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="510" y="376"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="510" y="397"/>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="152" x="278" y="488"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="152" x="278" y="488"/>
+<text font-family="Lucida Grande" font-size="13" x="283" y="502">
+Moderator Nomination</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="278" y="512"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="278" y="533"/>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="109" x="598" y="352"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="109" x="598" y="352"/>
+<text font-family="Lucida Grande" font-size="13" x="603" y="366">
+WikiPlaceholder</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="109" x="598" y="376"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="109" x="598" y="397"/>
+<polyline fill="none" points="70,643 70,704 230,704 230,555" stroke="#000000" stroke-width="1"/>
+<polygon fill="#000000" points="70,643 75,653 70,663 65,653" stroke="#000000" stroke-width="1"/>
+<polygon fill="none" points="70,643 75,653 70,663 65,653" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="117" y="723">
+Children</text>
+<text font-family="Lucida Grande" font-size="13" x="49" y="664">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="236" y="573">
+0..*</text>
+<rect fill="#ffffff" height="71" stroke="#ffffff" stroke-width="1" width="167" x="86" y="352"/>
+<rect fill="none" height="71" stroke="#000000" stroke-width="1" width="167" x="86" y="352"/>
+<text font-family="Lucida Grande" font-size="13" x="110" y="366">
+Commentable Post</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="167" x="86" y="376"/>
+<text font-family="Lucida Grande" font-size="13" x="90" y="391">
+Comment Count : Integer</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="167" x="86" y="401"/>
+<polyline fill="none" points="158,352 158,336 342,336 342,239" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,239 349,251 335,251" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,239 349,251 335,251" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="54,488 54,464 158,464 158,422" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="158,422 165,434 151,434" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="158,422 165,434 151,434" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="222,488 222,464 158,464 158,422" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="158,422 165,434 151,434" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="158,422 165,434 151,434" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="342,488 342,464 158,464 158,422" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="158,422 165,434 151,434" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="158,422 165,434 151,434" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="310,352 310,336 342,336 342,239" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,239 349,251 335,251" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,239 349,251 335,251" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="430,352 430,336 342,336 342,239" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,239 349,251 335,251" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,239 349,251 335,251" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="534,352 534,336 342,336 342,239" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,239 349,251 335,251" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,239 349,251 335,251" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="646,352 646,336 342,336 342,239" stroke="#333399" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,239 349,251 335,251" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,239 349,251 335,251" stroke="#333399" stroke-width="1"/>
+<polyline fill="none" points="110,643 110,672 222,672 222,555" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="110,643 115,653 110,663 105,653" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="110,643 115,653 110,663 105,653" stroke="#000000" stroke-width="1"/>
+<text font-family="Lucida Grande" font-size="13" x="117" y="690">
+Accepted Answer</text>
+<text font-family="Lucida Grande" font-size="13" x="123" y="660">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="192" y="573">
+0..1</text>
+</svg>
