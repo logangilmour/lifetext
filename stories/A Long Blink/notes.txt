@@ -1,0 +1,21 @@
+Overview:
+
+Starts in a bar in your neighborhood. This could possible be an intro-cinematic. Talking to the bar tender introduces a little of the setting.
+
+Outside in a decent but not overly futuristic area. You get updated with a voice memory telling you that something is up with the Memorial Processor, and to get there and debug it. You try to use the train, but it's not running. You meet train-guy and figure out the looping problem by freeing him.
+
+This means you need to go through the really shitty part of town sepparating you from the center of the city where the Memorial Processor sits. You have to 'unlock' a security guard type guy who controls access to this area. He remembers something about seeing a girl messing around with the memory tranceivers, along with some other misleading type stuff to keep things mysterious.
+
+The Second Phase: Bad area.
+
+You meet a ragtag group of amateur 'mind-cinema' producers working on a memory. They live in the slum area, but are passionate about exploring the world of mind-cinema. To unlock them you have to figure out the 'shot' they were shooting based on clues from the props. They know some things about some of the clues you got from the security guard, including that the hacker girl's description matches that of a girl that lives in the slums.
+
+(reason why you needed their help inserted here)
+
+An illicit-memory dealer and the 'drugees' (we should come up with a better name) he supports. He takes a cut of the support they recieve from the state in return for keeping them stocked with liquid food and memories while they mostly lay around. He's a nihilistic shepard type character, defending their lives as just as useful as those who waste time in the real world without contributing. The security gate between the slum and the center of the city in unmanned, and you can't get through there, so you have to unlock him so that he'll show you his secret way into the center of the city.
+
+Third Phase: City Centre
+
+Mind-papparazzi, intercepting candid memories of famous people to broadcast to the public for a fee.
+
+Fourth Phase: Inside the computer

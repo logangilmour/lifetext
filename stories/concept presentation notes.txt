@@ -1,0 +1,47 @@
+- Near future, memories stored via implants wirelessly in computer called Memorial Processor
+
+- recalled same, but more vivid and accurate due to high density digital
+
+- groundbreaking implication: humans share memories
+
+- elite: telepathic communication alternated recollection and formation
+
+- unprecedented leap in human knowledge - printing press, internet
+
+- unskilled work automated 
+
+- state provides basic needs. Society has much leisure time.
+
+- urban poor: remember proffessionally recorded memories replace cinema, augment food-replacements, illegally replicate mind-alterning drugs and sexual encounters
+
+- dreggs of society: 'vicarious' waking life in others memories
+
+- Play as John Stanton, care-taker for the Memorial Processor.
+
+- everyone freezes in place, discover that hacker injects infinite-loop memory into inhabitants
+
+- help some re-build minds so they aid investigation of looping memory
+
+- Cyber Punk: looming contrasts: rich and poor, new and old, elation and terrible drab bleakness. 
+
+- Centers around monolithic Memorial Proccessor - move inward through city exploring to eventually confront hacker using freeze as opportunity to blow it up
+
+- introduce memory reconstruction puzzle core mechanic
+
+- song stuck in head analogy, note that digital memory interface pulls mind more
+
+- note context before talking to guy
+
+- enough choices means no brute force
+
+- complex puzzles with multiple people and more subtle environmental clues.
+
+- Narration between puzzles like portal or bastion
+
+- Noir feel + cyber punk = blade-runner
+
+- fit to engine: people, puzzles reasonable to make
+
+- Music in layers
+
+The story is a variation on the mystery genre, but rather than playing as a private detective investigating a conventional crime, you play as a software maintainer tracking down a bug manifesting itself in meatspace. We're going for a cyber-punk noire feel. The story will take place in a futuristic city, tracking the players progress from its older, poorer outskirts to the wealthy, more futuristic centre where the memory-computer is kept. As you progress through the game, you'll learn that the problem in the memory-computer is no bug: it's a sort of 'mind-malware' created by a hacker who wants to destroy the memory computer. The conclusion of the game will be your choice to turn in the hacker or aid her. The progression through the city will reveal both the deadened consumers living the lives of others and the enlightened knowledge workers collaborating through shared memory. To enhance the noire feel of the story, we hope to add narration of the main-character's thought-stream between puzzles.

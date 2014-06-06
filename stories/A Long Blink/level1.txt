@@ -1,0 +1,404 @@
+It occurred to me that if someone wanted to quit the game, they might try pressing alt f4. I don't know why I thought that at the time, but it seemed appropriate.
+
+= Intro =
+I think it happened on the way home from work. I remember feeling a subtle sort of... twitch in the collective consiousness. As a caretaker for the for the wireless memory storage system, I'm pretty tuned in to these kinds of things. Weird blips ocaisonally happen for no reason, so I ignored it. Pushing thoughts of work out of my mind, I decided to grab drink or two before I headed home.
+
+=== Enter Bar ===
+As I reached the counter, the robotic bartender greeted me with a good approximation of a smile.
+
+=== Conversation with the robot bar-tender. ===
+
+>Robot Bar-tender: Hello there Mr. Deckard sir. Will it be the usual?
+
+>Deckard: I'm tired today, Robs.
+
+>Robot Bar Tender: You do seem somewhat fatigued today sir.
+
+>Deckard: It's been a long day.
+
+>Robot Bar-tender: I am highly sensitive to human emotive qualities as a part of my function. I detect that you are feeling what could be called "low". Would you like me to your usual a double sir?
+
+>Deckard: I like the sounds of that. I had to browse through a bunch of people's digital memories today while I was tracking down a glitch. You know what I realized, Robs? People are depressingly boring these days.
+
+>Robot Bar-tender: I'm sorry to hear that, sir. Here is your double Gin and Tonic and Xanax. Thank-you for choosing Uncle Dave's PharmaPub!
+
+=== Conversation with Jensen ===
+My buddy jensen's voice came on over the radio. He's the other caretaker for the memory system. [m1a1_radio]
+=== Jensen Radio Conversation ===
+
+>Jensen: Deckard! Can you hear me?
+
+>Deckard: Jensen? Yeah - yeah I can. Why didn't you just open up a memory link?
+
+>Jensen: I can't for some reason. I'm locked out of the system.
+
+Deckard: What's up?
+
+>Jensen: The security room is in lockdown. I'm trapped, and I can't access anything. Could you check the status of the Memory Storage Units real quick?
+
+>Deckard: Have you tried turning it off and then on again?
+
+>Jensen: I'm sure that would go over well with everyone in the city - nothing like a hard-reset to toss a bucket of water on your brain. I can't do it from the security room anyway. C'mon man, help me out.
+
+>Deckard: ... Huh. I can't access anything either. I didn't even notice - I usually go pure biological in the evenings. How long have things been screwed for?
+
+>Jensen: About five minutes.
+
+>Deckard: Try to figure out what's going on - I'll be there soon. Just let me toss back this drink ... there. 
+
+>Jensen: Thanks Buddy! See you in a bit.
+
+>Deckard: See you.
+
+Alright. It was time to go back to work - off to the train station.
+
+=== Narration for if you talk to other patrons ===
+
+1. Everyone else was spaced out. At the time, I figured 'eh', must be some hot new tranquilizer or something.
+
+2. Yep. Still unresponsive.
+
+3. I gave up on trying to talk to them.
+
+=== Narration if you try to talk to the bartender, 
+or go back into the bar ===
+
+1. I wished I had time for another drink.
+
+2. I figured, one more... couldn't hurt - No. no. There was no time.
+
+=== Pharmapub Sign ===
+I actually know Uncle Dave personally. Helped him out of a bind back in the early days when his special cocktails weren't so safe or tested. It's amazing the problems you can solve by discretely removing a few memories. [m1a2_pharmapub]
+
+=== Pass accident. ===
+There'd been a bit of an accident outside the pub.
+
+=== Hacker Hallucination ===
+Suddenly, I was yanked into a memory of a woman I didn't know. She seemed almost... to be calling to me? It was hard to tell. I was a little shaken, but I put it down to whatever glitch was giving Jensen trouble, and kept going. [m1a2_glitch]
+
+=== Narration ===
+"Holy shit!" I yelled, as the train exploded into fire. I figured I'd ask the maitenance guy near by if he knew what was up. [m1a3_explode]
+
+=== Train man convo ===
+
+The repairmain seemed strangely unfazed by the sudden and massive explosion of fire. 
+
+=== Talk to him ===
+>Train Guy: grabbing replacement coolant... then... I was entering the...
+
+>Deckard: Hey buddy, you know what's up with the train?
+
+>Train Guy: ... code 1134 ... then...
+
+>Deckard: [Scan him with memory debugger]
+
+> Train Guy: Then I... then I... wait but then...
+
+>Deckard: Fuck. Hey buddy, what are your last few memories?
+>Guy *goes through list*
+
+When I scanned him, it turned out he was stuck in a fragment loop. That's when a glitch messes up someones last few digital memories, puts them in the wrong order. The mind gets lost trying to rationalize the lack of causality. This guy would just going over his last few memories until the order was repaired. Normally I would just jack in and fix the glitch, but since I was locked out, I figured I'd try vocally walking him through the correct order. It might snap him out of it. I started searching around for clues. [m1a3_fragment]
+
+=== Train ===
+I hoped whatever was going on wasn't my fault. The train, though thankfully empty, was probably pretty expensive. [m1a3_train]
+
+=== Candy Machines ===
+I hate candy. [m1a3_candy]
+
+=== Puzzle ===
+
+*Cabinet* There was a storage cabinet, with it's keypad showing 1134: Access denied, followed by 1137: Access granted.
+
+*puddle / footprints* There was dirty, used coolant on the floor. Probably came from the train.
+
+=== Done ===
+>Jensen: You alright now?
+>Train Guy: Jesus, that was weird. Holy shit, the train's on fire! I'm out of here! *runs off-level*
+
+*sigh* Fixing people's memories is thankless work - they never remember it. 
+> Jensen: You're welcome.
+
+=== Back outside ===
+I decided cutting throuh the slums would be the fastest way to get back to work. The gate was down, though - I'd have to get the security guard to let me through. [m1a2_slums]
+
+=== Train entrances ===
+I felt it was unlikely that I would be riding the train today. [m1a2_station]
+
+=== Blast Gate ===
+The closed emergency gates supported my growing suspicion that the system troubles were extensive. [m1a2_gate]
+
+=== Police Bot ===
+I've never been fully comfortable around the automated enforcment 'bots. [m1a2_bot]
+
+=== Checkpoint sign ===
+If you're suspicious looking, they'll scan through your recent memories for hostile thoughts. A lot of false positives in today's world though. [m1a2_checkpoint]
+
+=== Security Guard Puzzle ===
+He was looking suspiciously vacant. I scanned him, and sure enough, he was in a fragment loop. I could probably piece together his last few memories with clues from the scene of the accident back down the street. [m2a1_guard]
+
+*Green Car* The alarm was coming from the green car. Probably triggered by the impact.
+
+*Scrape* There was some green paint scraped off on the bolards.
+
+*Sandbags* Hitting the sandbags would have made for more of a thud than a crash.
+
+=== DONE ===
+
+>Security Guard: Woah... what... what just happened?
+
+>Deckard: Welcome back to reality, buddy. You were stuck in a fragment loop.
+
+>Security Guard: What?
+
+>Deckard: Whip open that gate, man. I've got to cut through - the train's down.
+
+>Security Guard: I... damn. Yeah, sure. I feel strange. You don't think there's going to be any lasting effects, do you?
+
+>Deckard: You'll be fine. C'mon man, let me through. This really needs to be dealt with.
+
+>Security Guard: Sure, sure.
+
+=== Slums ===
+Things were not looking so good. The system appeared to have kept me safe by immediately disconnecting me, but it wouldn't do so for everyone else unless it absolutely had to. We're not sure how dependant on it people are. [m2a1_slums]
+
+=== Hacker hallucination ===
+I was dragged into another memory glitch. It was strange that system would present the same error twice. She definitely seemed to be saying my name. The sooner I could sort everything out, the better. [m2a1_glitch]
+
+=== Meet Abby ===
+>Abby: Hi! I'm Abby. What's you name?
+
+>Deckard: Hi Abby. My name's Deckard. Where's your mom?
+
+>Abby: My mommy's sleeping! She was reading me my favourite book, but now she's sleeping. I hope she wakes up soon and finishes reading.
+
+>Deckard: What's your favourite book?
+
+>Abby: Oh the Places You'll Go! It's by Dr. Seuss.
+
+>Deckard: That's a good book, kid. Let's find your mom.
+
+=== After conversation ===
+They don't give you the implant until you're ten, so I knew Abby must be younger than that. I was in a hurry, but I couldn't just leave her wandering around alone. Besides, I needed someone to show me the way in to the city center. Best to find her mom. [m2a1_abby1]
+
+=== Abby ===
+Abby told me her mom might be down the little alley somewhere.
+[m2a1_abby2]
+
+=== Intersection guiding ===
+There was a woman over to the left a little ways. I thought maybe it was Abby's mom.
+[m2a1_intersection]
+
+=== Dealer ===
+A shady looking character, clearly also in a fragment loop. As far as I was concerned, he could stay that way until the system was sorted out. [m2a1_dealer1]
+
+=== Memory addicts ===
+Memory addicts. They lay around re-experiencing illegal memories specially augmented to be far more appealing than real life. [m2a1_addicts]
+
+=== The Mom ===
+I could tell Abby's mom was a memory addict by the memory-loader at her feet. She was also definitely in a fragment loop. I got her last few memories out of her and started looking around. [m2a1_mom1]
+
+=== Abby after narration ===
+>Abby: My Dr. Seuss book! Will you read it to me? Pleeeease?
+
+>Deckard: Sorry kid. No time. You know about the big computer where all of the memories live?
+
+>Abby: Yeah! Big Sis' is going there today. She's going to help mommy wake up!
+
+>Deckard: Woah, What do you mean Abby? How is she going to do that?
+
+>Abby: I dunno! She just is.
+
+>Deckard: Hmm... What does your sister do?
+
+>Abby: She works on computers. She's really good at fixing them!
+
+>Deckard: When did she tell you this?
+
+>Abby: Today!
+
+>Deckard: Do you know how to get to the big computer?
+
+>Abby: Nope.
+
+>Deckard: Well, maybe your mom does. I'm going to wake her up and see.
+
+>Little Girl: Oh, OK. Mommy sleeps all the time though. Is the computer broken all the time?
+
+>Deckard: I don't know, kid. Anyway, I'm going to try to help her.
+
+=== Abby ===
+She seemed like a good kid. I didn't think she had any more information for me though. [m2a1_abby3]
+
+=== Bookpile ===
+There was a memory-disk on top of a copy of "The Wind in the Willows". On the bottom of the pile was Dr. Seuss's "Oh the Places You'll Go." [m2a1_pile]
+
+=== Memory Reader ===
+It looked like she'd dropped the memory-loader when the fragment loop had got her. [m2a1_loader]
+
+=== The Mom ===
+>Mom: Strange... I... I was just about to...
+
+>Deckard: I found your kid wandering around in the street.
+
+>Mom: Oh... Hey baby!
+
+>Deckard: You should probably... Never mind. I can tell I'm wasting my breath here. You know how I can get through to the city centre?
+
+>Mom: I... I don't... remember...
+
+>Deckard: Try. I think something very bad is happening.
+
+>Mom: You could try my uh... supplier... I think he goes there sometimes... he's just over there. Hmm... you look familiar...
+
+=== The Mom ===
+I didn't think I'd be able to get anything more out of her. Memory addicts aren't the most useful of people. To them, the waking world is just this bad dream they have once in a while. [m2a1_mom2]
+
+=== Radio ===
+Jensen called me on the radio again. [m2a1_radio]
+
+=== Jensen ===
+>Jensen: You almost here?
+
+>Deckard: Take it easy, man. I'm coming as fast as I can. Seems like this shit's been affecting the whole city - everyone I've seen so far has been in a fragment loop. Something's seriously corrupted.
+
+>Jensen: Shit. That's not good. I'm still trapped. I've been looking through the camera feeds. Some woman's set up at one of the side-entrances, trying to get in. Doesn't look like anyone I know. Everyone else is just... standing still.
+
+>Deckard: Probably all in fragment loops. Wonder why your door woman isn't.
+
+>Jensen: I don't know, man. I've got a bad feeling. Hurry up.
+
+>Deckard: Hey, what's she look like?
+
+>Jensen: Hmm... some sort of eye coverings or implants... dark hair, long on top... grey-ish power-suit.
+
+>Deckard: Hmm... I'm hurrying.
+
+=== After ===
+Could she be the one I'd seen in the glitches? And if so, how was she circumventing the firewall? [m2a1_firewall]
+
+=== Laptop ===
+The computer was showing an image of a kind of pastoral scene with people laughing at a picnic on a grassy hill. The colours seemed too bright and vivid to be real. It looked like a nice time. [m2a1_laptop]
+
+=== Hatchway ===
+I thought the hatchway must lead into the sewer. [m2a1_hatchway]
+
+=== Dealer ===
+>Dealer: Wha... What's up, man?
+
+>Deckard: You know a way to city centre from here?
+
+>Dealer: Yeah man... but why should I tell you? You look like some kind of cop.
+
+>Deckard: I've got bigger problems than your illegal memory smuggling. Lets keep it that way.
+
+>Dealer: OK, OK, I get the picture. Here. Just head through this hatch, down a tunnel, and then up through the next hatch you find.
+
+>Deckard: Thanks. Try not to ruin to many lives.
+
+>Dealer: Hey man, I just give people what they want.
+
+=== Abby ===
+Abby ran up and told me goodbye before I left. [m2a1_abby4]
+
+=== City Center ===
+I was beginning to feel a little out of my depth. Who was this woman Jensen was watching? And Abby's sister, the memory glitches I'd seen... were they all the same person? If so, what was her part in all of the fragment loops? Did this thing affect the whole city? The country? With memlink down, I had no way of knowing. [m2a2_walkin]
+
+=== Hallucination ===
+Again! This time, I clearly heard her say "Deckard, come to the memory system!" Who ever she was, She had to be involved. [m2a2_glitch]
+
+=== Enter bridge area ===
+There were some boxes blocking the bridge leading to the memory system. Fortunately, Stacy was near by. She's a friend I stop and chat with most days on my way to work. [m2a2_stacy1]
+
+=== Stacy ===
+Stacy had been in an accident when she was younger, and then had been through a series of prosthetic bodies. Now, she's uniquely qualified to handle all of the cargo logistics in the city center. Unfortunately she was in a fragment loop, just like everyone else. [m2a2_stacy2]
+
+
+=== Boxes ===
+One of the buildings in the City Center houses a military research facility. Judging by the contents, the shipment Stacy was assembling was probably going there. [m2a2_boxes]
+
+=== Obstructing boxes ===
+I'd need Stacy's help to move the boxes blocking the bridge. [m2a2_block]
+
+=== Stacy the Forklift ===
+>Stacy: Deckard! What just happened?
+
+>Deckard: Don't worry Stacy - you were just in a fragment loop. You've been out of it for about a half-hour or so, but you're fine now.
+
+>Stacy: Huh... I... weird. I definitely feel weird. Did you fix me?
+
+>Deckard: Yep. Just doing my job.
+
+>Stacy: Thanks! I appreciate it.
+
+>Deckard: Any time, Stacy. Hey, do you think you could move those boxes blocking the bridge? I need to get across. I think the whole city is locked up just like you were.
+
+>Stacy: Yeah, of course! Go quick!
+
+=== Jensen ===
+Jensen came on to the radio again, a note of panic in his voice. [m2a2_radio]
+
+>Jensen: Deckard! You here yet?
+
+>Deckard: Almost - just on the bridge.
+
+>Jensen: Hurry! That woman managed to get in, and she signed in with credentials that she definitely shouldn't have. The console's telling me that she's some sort of army general, but the woman in the profile picture is definitely not her.
+
+>Deckard: Oh fuck.
+
+>Jensen: I think she caused this shit. She's in the module control room now, messing around with something. I don't know what the hell she's up to, but I'm guessing it's not good. And no one is responding on any of the emergency lines.
+
+>Deckard: Hold on man, I'm coming.
+
+=== Enter Computer ===
+Damn, there she was, up at main terminal of the memory storage computer, messing around with it. She must have figured out how to scramble the system's cache, muddling up everyone's last few moments so that she could just walk right in unchallenged. [m3a1_walkin]
+
+=== Haxor ===
+
+>Hacker: Deckard! Good, you're here.
+
+>Deckard: What are you doing? How do you know my name?
+
+>Hacker: I'm destroying the system.
+
+>Deckard: Why?
+
+>Hacker: It needs to be destroyed. Experience is dead.
+
+>Deckard: But, it's... good? I mean, it seems fine to me...
+
+>Hacker: You don't remember. I... I guess I knew you wouldn't, but it's - it's still hard to see it in your eyes.
+
+>Deckard: What?
+
+>Hacker: I'll show you.
+
+=== Self-loop ===
+Shit, she'd managed to inject some memories into my head. They were out of order though, probably because she got 'em in there using whatever exploit she'd found that let her lock up everyone else. So there I was, in my own fragment loop, figuring it out from the inside. [m3a2_explain]
+=== Haxor ===
+The world rushed back. [m3a1_back]
+>Hacker: See?
+
+>Deckard: What the hell is going on?
+
+>Hacker: They found out you were secretely working toward changing the system. To contribute. They wiped your memory. They stopped us.
+
+>Deckard: I... but... I don't remember...
+
+>Hacker: That was the point. Please. There's no time. Now that you've seen, I need your help. I need your access credentials. Just push that blue button and you'll give me permission to free everyone, just like we wanted.
+
+=== Jensen ===
+
+>Jensen: Deckard! Don't listen to her! She's manipulating you! Whatever you experienced just now, it was a fabrication!
+
+>Deckard: Jensen? Did they wipe my memories?
+
+>Jensen: Of course not! Think about it. You'd know if something like that had happened to you. You'd know you were missing something. Just push that yellow button. It'll let me out of lockdown so we can detain her.
+
+=== Reflection ===
+I... I didn't know what to think. Had I lost some of my past? It was hard to say. I'd been drinking a lot lately, been feeling pretty listless. Could there really be a hole in my memories? [m3a1_confused]
+
+=== Help Jensen ===
+It turned out she'd been telling the truth. I had been that person, done those things. Having rediscovered my past, I was judged to be too great a risk to just wipe and release again. Both of us were put into mind prisons, left to run out the rest of our lives in fake worlds. It could be worse, I guess... I mostly go on a lot of picnics now.
+
+=== Help Isis ===
+It turned out she'd made it all up. Unfortunately, wiping the system had... side-effects. She and I were fine, having spent a lot of time outside the system, consiously forming a core of bioligical memories. Almost everyone else, though, had grown dependant on it. Losing the memories that made them human, they became primitive, violent. I don't know what's going to happen to them.

@@ -1,0 +1,10 @@
+Forrest
+Ocean/Beach/Sea
+Fire
+Desert
+Meadow
+Pond
+Lake
+Volcano
+Island
+Road

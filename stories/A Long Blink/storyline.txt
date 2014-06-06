@@ -1,0 +1,42 @@
+Themes:
+Productions vs Consumption
+Progress vs Regress
+
+Story:
+
+Begin in a bar, bar-tender freezes up after he walks away from you, you can't get his attention, leave.
+
+Phase 1: Designed to introduce the idea, explore it a little in a fairly mainstream, neutral way. Ambiguous.
+
+You're in a middle-class area to start, streets are maintained if a little old, people run small businesses or work for big corporations.
+
+Outside, everyone's frozen up like the bar-tender. You here a transmission indicating the memorial processor is acting up and you've been disconnected.
+
+Fix the first guy, could be train-station example. Simple example that serves to reveal the mechanic and explain the nature of the problem as a mind-loop. This last bit is revealed by narrative reflection. 
+
+You confirm mind-loop hypotheseis by solving the next puzzle, more difficult but still just one person? Likely a security fellow who'll let you through the crap part of town that you'd usually take the train through. Maybe you find out about hacker girl tapping into local wireless memory-antenna infrastructure? Saw her on cameras or something, scared her off.
+
+Phase 2: The poor
+
+You're in a terrible part of town. This is where you meet the drug-dealer type character, memory junkies. Things are in ruin, stuff is on fire, a little over the top. Could take place in the shadow of the freeway that sepparates the older areas from the new areas.
+
+The first person you meet is the drug dealer? You have to figure out that's what he is by talking to him and the leaches around him. They aren't even jacked into the system - they've exceeded limits or something, so they just get their stuff via wire from him. They're so far gone they have no idea what's going on around them. Got to solve his puzzle so he can show you his secret way into the centre city. He's got a strange view on his function in society. Reveals the darkness of life and at the same time suggests that these people are happy in some sense, conspiracy theory type guy. Talks about hooking in to an underground of other people.
+
+Next people: Amateur memory makers creating some kind of magnum opus. The source of joy in their lives, talk about great work they like. Making a memory of something vaguely meta in a historical context. Maybe something to do with Television as a historical artifact. They know the hacker girl, mention she was up to something but didn't know what, tell you about her.
+
+Phase 3: The rich
+
+Beautiful walled-in city center, very beautiful and huge, well kept, well protected (wall has guns, so does inner wall around memorial processor)
+
+Talk to a gossip pedler, intercepting the memories of the famous, mind-papparazzi, real piece of shit. Tied into some weird conpiratorial stuff though. Also jacks you in to the fact that the chick knows something about how the system works, has sold the paparrazzi interception tech.
+
+Cut through a library, meet someone 'memorizing' classic works of fiction. Consumption as beautiful and inspirational.
+
+Final Phase: Designed as a choice-point, the end of the game where the player must decide what to do about the hacker.
+
+ Confront hacker. Meta-puzzle that hooks in with all of the stuff that's happened so far, hooks together the theme. You get one try, she blows up everything if you fail. Talk about technology vs human nature, and how people have always been jacked in to something.
+
+
+Nifty stuff to mention to build out world:
+
+Weird weather phenomena suggesting man-made climate change.

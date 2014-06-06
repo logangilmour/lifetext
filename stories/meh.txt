@@ -1,0 +1,93 @@
+250 Noir
+
+John Stanton
+
+Story:
+Person A is blackmailed / has embarrasing or incriminating information leaked. They want this dealt with outside of official channels, hire John. They specify source of leak as Person B.
+
+It's revealed through dialog and other clues that there is a charitable organization / underground association that seems to provide any number of services to it's members which the current government is lacking in. The current government is a Libertarian society in which most things are privatized. The underground organization is slowly revealed to be a sort of proxy government, providing a socialist framework within the current libertarian government. It's also of a fairly distributed nature, without an obvious leader.
+
+One thing slowly uncovered is a sneakernet. This network is encryted. You gradually find out more and more about it.
+
+In the end, the sneakernet is acting as the distributed amorpheous constitution used to plan and implement the democratic undergovernment. It's discovered that there was no identifiable individual responsible for the leaks - that this was a collective decision created by the hive mind of the underground as it progresses to its next stage: undermining the true government.
+
+Dialog Puzzle Mechanism:
+
+Each character in the game will be a node in a graph. There will be approximately five primary nodes that must be leveraged to complete the game. There will be approximately 15 secondary characters. It will be necessary to leverage about half of these chareacters. They provide for multiple access if mistakes are made. Finally, there will be about 20 tertiary characters. These characters might provide minimal leverage on other characters, as well as providing means to get 'lifelines' like truth-serum or blackmail material on specific characters.
+
+Any type leverage applied to characters will have propogation rules. Roughing up a character, for instance, might make his peers less willing to trust you, fear you, etcetera. Blackmailing him, however, might cause a characters subordinates to be more likely to help you, as it's in their bosses interest that they do so. Propogation of leverage will depend on two things: The type of leverage applied, and the nature of the relationship between characters.
+
+Nodes on the graph don't appear until they are revealed in some way by some piece of information. Characters won't appear or have interesting dialog options until they are revealed by some evidence. Other mechanisms might be possible, i.e. a door might not unlock until you've appeased its guard.
+
+Information might change the graph. For example, if you have information about character A that makes them unappealing to character B, you could tell B thereby making them unlikely to tell future information to A. This new information might have been vital to keep from A, but neccessary to tell to B.
+
+People:
+-noteriety (causes desire for information)
+-wealth 
+-power (related to influence)
+-inclination to help you (related to how much you've helped them): range: won't deal, will trade information for info or money, helps freely.
+
+Relationships (maybe some on sliding scale?):
+-power: superior, peers, subordinate
+-disposition: benevolent, ambivalent, malevolent
+-interest: have information, uninterested, need information
+-debt: debtor, unrelated, creditor
+-sexual: interested, neutral, un-interested
+-influence: influential, not influential
+
+leverage:
+Truth serum (must be used out of sight of others? subtle spray aerosol?)
+blackmail
+information - could propogate to people who you don't want to know about it, have to decide most profitable place to use it.
+computer hacking
+bugs
+
+
+Characters:
+John Stanton - you
+
+Darcy Morgan - Government official the leaked data pertains to. Wants to know why it happened. When he finds out, he wants you to get to the bottom of it. Still discretely.
+
+Primary:
+- Avery Brogan - leader of the Social Institute. Rants and Diatribes to end the game and tie things up. Leak was premature, was supposed to be part of an attack during elections.
+
+- Page Maddison - Head of collections for the Social Institute. First contact within the organization, first real indication that they're bad?
+
+- Agrippa Hunter - Head of private security firm SafeTek. SafeTek should look increasingly guilty of serious shit throughout the game. At first you think they tried to take you out. It later turns out that they didn't even know the plans of the Social Institute, and though they went after you, it was just a contract.
+
+- Alex Gomer - A reporter (for what news network?). Published the leak.
+
+Secondary:
+- Blair Cassidy - assassin who attempts to kill you for nosing around. Who sent him?
+- Gale Carlin - an informant who contacts you out of the blue?
+- Janet Taylor - Nick Taylor's wife.
+- Nick Taylor - leaked the information to the press. Wanted to discredit Morgan in retribution for an affair with his wife. Assistant to Sloan Kingsley. 
+
+Sloan Kingsley - Runs an IT company? PR company?. 
+Mallory Greer - love interest, Social Institute doctor who nurses you back to health in private. You meet her earlier and she likes you, so she helps you out later. Maybe a tense count-down like situation after you leave her care?
+
+Robin Bailey
+Kerry Addison
+Dana Kelly
+Drew Cameron
+Hadley Iris
+Mattie Aubrey
+Jackie Hayden
+Casey Indiana - an informant / vagrant type fellow. An old friend who picks up news on the street in return for a little money to spend on drugs. Gets hurt later and patched up by Dr. Greer. This is where you first meet her.
+Sasha Mackenzie
+Mickey Sydney
+
+
+Leslie
+Andy
+Farley
+Happy
+Merle
+Ollie
+Sammie
+Tony
+
+
+Plot:
+Darcy Morgan hires you to investigate a leak.
+Alex Gomer published it. Convince him to reveal his source.

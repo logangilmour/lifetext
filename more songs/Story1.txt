@@ -1,0 +1,90 @@
+Untitled
+
+	We met in scramble room. His avatar was a woman in her forties, presumably chosen randomly by the scramble room. It's more secure to let the room pick your avatar - personal preference is ultimately identifying information. Not that Zman34 was trying very hard.
+	"Hey man, how's it going?" he asked, as he flopped back into a chair, throwing one leg up over an overstuffed arm rest in a way not really compatible with a grey suit-jacket and knee-length skirt. It was then that I decided that he was a male, jeans-wearing, basement dweller.
+	"Good." I said, my voice coming out modulated to fit the avatar of the mid-fifties, slightly balding man that the scramble-room had chosen for me. In the real-world location I actually occupied at the time, I then reached up to massage my neck and shoulder with my hand. My avatar did not do this. I run very high normalization settings on my body scanner that remove such extraneous motions. It keeps up an appearance of calm composure, and reduces the amount of identifying information I leak. The fact that I suffer from tension headaches isn't much information, but it's something. When enough little bits add up, you wake up to the crash of federal agents breaking down your door.
+	"So you're actually Mux?" He asked, his tone sightly awed. In answering, I simply raised my gaze upward slightly to indicate the label "Mux" floating above my head.
+	"Woah..." he muttered. "Alright. I think I have some information you want."
+	"Stop!" I said quickly. "We go to a private room, now." I snapped my fingers, and everyone milling about us vanished. He jolted a little in his chair as it happened, presumably knocking over something only he could see. He bent over and righted whatever it was, replacing it upright at the base of his chair. I looked hard into his eyes.
+	"You were able to find me."
+	"Uh... yeah."
+	"It follows, then, that the feds can also find me?"
+	"Well... but... then wouldn't they stop you? Boot you off the system?"
+	I sighed. "No. This system is distributed - it has no central controller. It lives on the computers of everyone that uses it. The feds can't do anything to it or, by extension, me. But they can pretend to be someone sympathetic, and listen. The first thing you should have done is asked for privacy." He looked a little sheepish.
+	"Sorry..."
+	I sighed. "It's done now - can't be helped. We'll just hope that no one was listening, and that if they were, you are sufficiently anonymous. What do you have?"
+	"Information. Lots of information."
+	"Regarding?" I asked.
+	"Surveillance. Where it is, how it works, who's being surveilled, who's watching. Everything."
+	"Huh. That's good. Really good. Can you send it now?" I asked, suppressing a growing excitement.
+	"Yep!"
+	"Ok, go for it. What's the format?"
+	"Several database dumps."
+	"Good, they'll be easy to browse." The files started streaming in on my end. Moments later, I had them. More moments than I expected. Lots of information. I could feel it coursing through my veins, energizing me. "Alright, I have them. I'm going to have a quick look, make sure this is new stuff. We're getting more and more leaks these days, and people are starting to give us information we've already published."
+	"Cool!" he replied, smiling. "I'm pretty sure no one's leaked this."
+	I reconstituted the files into searchable databases, and brought it up in the room. Fractal tendrils of information surrounded us.
+	"Damn." I muttered. "You weren't kidding." I swiped my intent through a broad sample of the data, magnifying it between us. "Everything they've got on everyone... I think that's what this is. Wow. Hmm. I wonder..."
+	"What's up?" asked Zman34.
+	"You ever try searching for yourself in here?"
+	"No, they monitor what we search for, apparently."
+	"Stop. Don't tell me anything about yourself, how you're related to anything, where you work, whatever. It's best for both of us. Just - I don't know - reassure me that you got away with this."
+	"The database dump is an admin function that isn't tracked by the system. Lookups are audited, but grabbing the whole database isn't."
+	"Ah." I said, relaxing a little. "Typical governmental idiocy. High-tech security system on a house that's missing a wall. But why didn't you query the database once you'd gotten your own copy?"
+	"Huh." he said, looking bemused. "I was so caught up in leaking it, that once I had it, it didn't even occur to me."
+	"Have a quick look." I told him. "Do it privately - if they have something little on you, I don't want to know. Let's just make sure you're not under too much scrutiny. Don't panic if they have a file on you - they have a file on everyone. You'll know if it's serious."
+	He was still for a few moments, working through the search somewhere in the real world. Then he stiffened, and the colour drained from the face of his middle-aged business-woman avatar.
+	"Oh no... no... no fucking way..." 
+	"How bad is it?" I asked.
+	"Bad bad... really bad... you might as well look. They even know my handle, Zman34. Shit." He put his hand to where the virtual-reality headset he was wearing was in the real world, lifting them off of his eyes and looking around, breathing quickly.
+	"Stay calm." I said. "Breath slowly. Let me see." He moved one of his hands, and the file for 'Zachary Jefferson' appeared in front of us. It was bad indeed.
+	"From the looks of things," I said as I scanned through the file, "there may actually be agents outside of your home right now." I scanned through the file some more. "We have to assume you were tracked digitally to our meeting as well. They don't appear to know what you have, since that admin dump does seem to be unmonitored, but they know you have something." I paced back and forth a few steps.
+	He made a half-strangled, quiet, bleating sound, and rocked back and forth slightly, both hands clutching his head. I thought for a moment.
+	"Zach!" I said sharply. "Listen. Five years ago, you'd have been caught. The agents would be arresting you right now. In all likelihood, you'd have already been shot," I made air-quotes with my hands "resisting arrest". His eyes widened. "But," I said quickly to placate him, "This is no longer the case. The agencies that handle physical and digital surveillance are separated sharply now, because of people like us. In fact, all government agencies are much more partitioned than they were five years ago. Do you know why?" He shook his head silently.
+	I continued, "They're separated because communication of any information between parts of government means that more people have access to that information. Each person with access to any given piece of secret information could potentially reveal that information to the public. More and more people are revealing information from the inside - just like you. So the government's response is to only give any one person access to exactly enough information to do their job. Then, if they betray the government, they do minimal damage. The flip-side, of course, is that as the government partitions itself more and more, into roles that require less and less information, the individual departments become crippled by their limited knowledge. It's harder for an infiltrator to get access to information precisely because it's harder for everyone to get access to information."
+	He was looking calmer as he listened attentively. I kept explaining. "This database we're looking at is actually a combination of the of the databases you downloaded. We have information from both physical and digital internal surveillance. Neither of those two departments has access to all of this information put together. So it's actually fairly likely that, even though the digital surveillance people know you're up to something that merits grabbing you, they don't know that there's a team outside your house that could do it. They'll be scrambling to get such a team assembled. Meanwhile, the physical team will be sitting outside, probably in a car, bored out of their minds. This is the beauty of internal leaks. As well as letting the people know what's actually going on, they make a secretive government less and less effective as it attempts to protect itself from these insider threats. It's like an organism whose over-reactive immune system is attacking itself."
+	"Uh... ok." He said. "What do I do?"
+	"Pack a bag." I told him. "A small backpack, something that's not going to look suspicious. Something that says 'I'm going to the gym', not 'I'm fleeing the law'. In the meantime, I'm going to try to figure out if you're being pursued and, if so, where they are. We've been working to set up a network of scanners that are accessible to the public, essentially counter-surveillance. We can see who is on the roads and where."
+	"Really?" he asked indignantly. "How can you support that shit?"
+	I sighed. "Why don't you like surveillance?"
+	"It's a violation of my privacy."
+	"And why don't you want your privacy violated?"
+	"Because if the government can spy on us, they'll eventually start using that information to drag us away in the night. For the good of the country."
+	"And what if everyone knew who the government was dragging away, and why, and to where?" I asked.
+	"Well..."
+	"Meaning we could go through legal or less legal channels to help these people?"
+	"I guess that would be better," he replied.
+	"So," I continued, "Maybe it would be worth losing a little privacy to expose that sort of information?"
+	"Hmm..."
+	"I believe that the real problem with surveillance is not the privacy violation. It's the fact that it's generally secret. Information you don't know used without your knowledge by an opaque government. If everyone can look through the scanners, then it's public information infrastructure, like a road. If only a specific entity, like the government, can look through the scanners, then they're weapons for use against the people. I think we have to fight secrets with transparency, and I think the more infrastructure that we can build up that lets us see the government in action, the more the secretive parts of it must wither and die. Much of our current government is secretive - I suspect that much of it is going to die."
+	He looked thoughtful. "I'll... have to think about it."
+	"Pack first." The results of my search came back. "Alright, according to our vehicle tracking database, there's been a van parked across the street and a half-block east for about two weeks now that has never been in your neighbourhood before. It comes and goes at regular, but unusual times. Probably the feds."
+	The alarm in his face began to intensify again.
+	"However," I said, "they certainly are not doing anything right now. Just sitting there. And our public radio analysis network hasn't picked up any traffic with law-enforcement patterns in it. We're getting pretty good at identifying when they're communicating, even if we can't tell what they're saying. So I'd say you have at least five minutes."
+	"Ok, I'm going to switch to voice-only so I can grab my stuff."
+	"Do it. Let me know when you're ready to go."
+	About three minutes later, he said "Alright, ready." his voice cracked a little as he did so.
+	"Ok. From their file, you leave your place walking wast pretty often, probably to go get groceries. Go out your front door, and start walking west. I should be able to see you - one of your neighbours is in the scanning neighbourhood. Act like your going to the grocery store. And please, please don't look at the van. Do not do that."
+	"Alright, just putting on shoes... and I'm leaving."
+	Through his neighbours scanner, I saw him emerge from his front door.
+	"Quit being so furtive!" I said as I saw him look nervously back and forth, one foot still inside. "You look like a terrorist! Just start going to the grocery store. I know you're freaked out, but they've been watching you for ages and done nothing, precisely because you didn't look suspicious."
+	"Sorry..." he mumbled.
+	"Ok... good. Just walk. Good. No peeking now."
+	He walked out of the range of the scanner, and I switched to the next closest. After a moment, he walked into range.
+	"The the van stayed put. Keep walking up until the street where you normally turn, and it probably won't follow." He did so. I changed scanners again. He rounded the corner. 
+	"Wait. Why doesn't law enforcement use the same scanners you are to keep tabs on me?"
+	"Hah!" I replied. "They're not allowed. The government is unwilling to use infrastructure not under government control. And since we've managed to keep government surveillance scanners off of the street through legislation, we actually have an advantage on this front."
+	He continued walking, and asked "So... where should I go?"
+	"We have a cell in your area," I replied. I'm going to connect you with it. Someone will pick you up. Just keep walking."
+	"OK." He did so.
+	I sent a message off to the cell nearest to him with the details of his situation, and his contact information.
+	"Someone should contact you soon."
+	"Thanks, man. This whole thing did not go as smoothly as I'd hoped."
+	"No worries. Things seldom do."
+	After a moments pause, he asked, "Do you think you should look yourself up in that database?"
+	I thought about it. "Couldn't hurt. Though I'm pretty confident that I've covered my tracks."
+	"So was I."
+	"True enough," I said, and started to run a search for myself. I searched for my handle, 'mux'. The results began to appear.
+	The first thing that appeared was my real name.
+	The second was my address.
+	The third was an account of an ongoing investigation. They were waiting for something big to catch me with.
+	And then they broke down my door.

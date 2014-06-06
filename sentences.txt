@@ -421,5 +421,85 @@ May 8th, 2014
 Feeling much less hungry and a fair bit happier, and met more friends at the wall.
 
 May 9th, 2014
-Some strange moodiness in the afternoon, had considerable trouble not ruminating on an accidentally and unintentionally offensive thing I said, popcorn less exiting and more satisfying, a secret birthday!
+Some strange moodiness in the afternoon, had considerable trouble not ruminating on an accidentally and unintentionally offensive thing I said, popcorn less exciting and more satisfying, a secret birthday!
 
+May 10th, 2014
+Felt fantastic in the morning, ran out of juice a bit in the afternoon, crushed that with plyo, then learned how a fourier transform works.
+
+May 11th, 2014
+Family lunch for mother's-day, bandpractice, handstands, RSS is alive.
+
+May 12th, 2014
+Disruptive crisis of purpose at work in which I considered the merits of ascetic living.
+
+May 13th, 2014
+Continued crisis into pretty debilitating depression, for which I suspect reducing coffee consumption coupled with low-reward lifestyle is responsible, then felt better jamming and smoking a couple cigarrettes.
+
+May 14th, 2014
+Felt way better than yesterday, got significant coding done, and furthered my understanding of dopamine as likely involved primarily in 'wanting' rather than 'liking'.
+
+May 15th, 2014
+Felt a bit deprived, but productive, and noticed a view of the cemetery hill I never have before.
+
+May 16th, 2014
+Found out that Mike tried to kill himself several times.
+
+May 17th, 2014
+Tired from drinking and staying up, but read a whole book on willpower and exercised anyway.
+
+May 18th, 2014
+Fun time with family tasting beers and eating ribs, though these foods are becoming more and more detached from pleasure.
+
+May 19th, 2014
+Designing a protocol for handling bad moods which seems to be pretty effective, also I figured out how to flip backward from sitting onto my hands!
+
+May 20th, 2014
+Wings with friends, cycled as hard as I could, found a great park and started "Man's Search for Meaning"!
+
+May 21st, 2014
+Got footnotes working with Adventure Patterns, figured out a simple search paradigm for BigPaper that solves all problems ever, and started reading 'The Phantom Tollbooth' again.
+
+May 22nd, 2014
+Implemented 'todo' colours on handles in BigPaper, and booked laser-eye surgery for May 29th!
+
+May 23rd, 2014
+Ate a little less today, and really, really felt the 'wanting' in the evening, also started considering building a distributed e-book search system.
+
+May 24th, 2014
+Good day, started eating chicken hearts, felt dead and soulless (probably because of diet) but then went climbing, got a couple difficult routes, and was brought almost to tears by the glint of sunlight off of a backhoe and a building in the distance in the cool spring evening air.
+
+May 25th, 2014
+Wrote lyrics to a song, started planning a kids serial where the information space and the real world are bridged, thought more about Ghost Library, and finished reading Man's Search for Meaning.
+
+May 26th, 2014
+Felt great all day, made plans for biking to devon, building a raft, and rafting back, and climbed the ten hardest routes I can climb.
+
+May 27th, 2014
+Another high-energy day (upregulation!?), saw Diane for the first time in a while, started attempting to record the album with Scott.
+
+May 28th, 2014
+Good energy in the morning, somewhat decreased in the afternoon, started reading 'A blueprint for your castle in the clouds', decided not to take on additional work, and excited for laser surgery tomorrow!
+
+May 29th, 2014
+Lasik surgery done, interesting procedure followed by improvement throughout the day, lots of eyedrops, sitting in the dark listening to 'The Power Broker'.
+
+May 30th, 2014
+A little drained, but can see, read 'Free Will' by Sam Harris, talked to kirby about his system.
+
+May 31st, 2014
+Ditched two chairs, destroyed a couch, and cleaned up the living room so that it's now a very nice little space, came up with 'Godcube' with Nate, and had lots of fun at the Mahsi farm event.
+
+June 1st, 2014
+Played Act III of Kentucky Route Zero and enjoyed it, and resolved to go to Guatemala and learn Spanish!
+
+June 2nd, 2014
+Extremely depressed in the afternoon and evening, definitely seems to be a correllation with drinking, also exercise is starting to be more and more addictive, and missing that because of lasik was also tough.
+
+June 3rd, 2014
+Slept in, good dev in the morning, introduced some coffee into my afternoon to combat depression (seems to have worked), went for a good ride with Scott and Gresiuk, great time dancing at marlaena's birthday, couldn't sleep.
+
+June 4th, 2014
+Very tired, generally decent mood, went to bed early after a good band practice.
+
+June 5th, 2014
+Good sleep, caffeine definitely helping the depression from dopamine withrawal, played through The Matter of the Great Red Dragon and AlphaLand, designed a small game played with cubes with Nate, and resolved to learn Unity and be a game designer once again!
