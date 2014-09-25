@@ -744,3 +744,53 @@ Hiked through Little Shove and Big Shovel passes.
 September 7th, 2014
 Hiked up through the Notch, then along an awesome ridgeline, then all the way out, to avoid possible bad weather.
 
+September 8th, 2014
+Nice day chilling at home recharging from the hike.
+
+September 9th, 2014
+Had fun writing and recording some guitar riffs at work. Climbed with Casey, and met D'Arcy and Brian.
+
+September 10th, 2014
+Felt motivated, got most of mobile site working. Played with the oculus all day, and decided that I agree with satch that everything burns is probably not the best game to make, and that we should pander a bit.
+
+September 11th, 2014
+Had my wisdom teeth removed, and then spent the day on the acreage with mom. Watched Her, which I really enjoyed.
+
+September 12th, 2014
+I had a good talk with Dad about antidepressants and such. I felt pretty decent, and am healing well. I figured out a nice system for rendering procedural objects in 3d, and agreed to move in with Aaron, Nice, Kyle, Dagny, Sohaila, and Khojesta!
+
+September 13th, 2014
+Pain came back a fair bit, but managed to get flat-shaded polys working. Watched '12 years a slave', which was excellent.
+
+September 14th, 2014
+Felt a bit better, and had a nice dinner with the family.
+
+September 15th, 2014
+Watched Mad Men, felt crappy.
+
+September 16th, 2014
+Watched Mad Men, felt crappy.
+
+September 17th, 2014
+Bought a sweet computer for oculus development!
+
+September 18th, 2014
+Had a beer with the guys and talked about directions for the cave game.
+
+September 19th, 2014
+Went to a party at Steph's, had a nice time. Cats didn't seem to bug me much with the antihistamines.
+
+September 20th, 2014
+Cleaned up the house and moved some stuff, and Watched Toy Story 3, which was pretty good. Also had some exciting thoughts about directions for the Cave Game.
+
+September 21st, 2014
+Biked all over the place to update graphics card to the newest version while listening to 'The Cuckoo's Calling', which I'm quite enjoying. Thought about voxel-based global illumination hacks.
+
+September 22nd, 2014
+Stayed up late messing around with the Unreal Engine in an attempt to get a basis for procedural meshes working.
+
+September 23rd, 2014
+Learned about global illumination, had a good climb, and decided to start being a night person again.
+
+September 24th, 2014
+Sorted out a couple of songs to write lyrics to, and played around with the highway game.
