@@ -794,3 +794,256 @@ Learned about global illumination, had a good climb, and decided to start being 
 
 September 24th, 2014
 Sorted out a couple of songs to write lyrics to, and played around with the highway game.
+
+September 25th, 2014
+Got procedural meshes working in the current version of Unreal.
+
+September 26th, 2014
+Got drunk at Shawna's birthday, and had a good talk with Nolan about band stuff.
+
+September 27th, 2014
+Quite drunk and up late at Bryce's place after they won the Audience choice award for 24/1 and spent it on kegs.
+
+September 28th, 2014
+Hangover cleaning.
+
+September 29th, 2014
+Horrible cleaning all night, helped Satch out by automating some of his after effects animation.
+
+September 30th, 2014
+Went to a job interview that went well and seems cool, and implemented more fun animation stuff.
+
+October 1st, 2014
+Accepted the new job, and started building the wall that will define my new tiny space!
+
+October 2nd, 2014
+Told everyone at the office that I'm moving on, and got the wall standing.
+
+October 3rd, 2014
+More work on the wall.
+
+October 4th, 2014
+Finished insulating and sheeting the wall and putting up doors, and had a fine time at the Mahsi show.
+
+October 5th, 2014
+Watched Snowpiercer, which was interesting but heavy-handed, and finally finished the wall and cleaned up. Also was quite hungover for that.
+
+October 6th, 2014
+Had a fun time playing Spelunky.
+
+October 7th, 2014
+Nice talk with Nathan about his wedding and therapy, played some more Spelunky, and started figuring out mesh generator.
+
+October 8th, 2014
+Lackluster band practice and Spelunky.
+
+October 9th, 2014
+Stayed late getting this dumb United Way calculator going, then got a triangle displaying from a simple list of vertices and indices in UE4!
+
+October 10th, 2014
+Satch announced his intentions to quit, which is bound to be interesting. Met Bree, who was quite nice, and also met Christina, who might play violin in the band!
+
+October 11th, 2014
+Bought the supplies for the loft office, and saw Marlaena, Language Arts, and The Harpoonist and the Axe Murderer, all of which were great!
+
+October 12th, 2014
+Built the loft, and had a great thanksgiving with the family!
+
+October 13th, 2014
+Was hungover and put the finishing touches on the loft.
+
+October 14th, 2014
+Jammed with Lucas and Tyler, and a song just sort of emerged. Got an inheritance based version of the Generator Class going.
+
+October 15th, 2014
+Bit more work in order to get the ability to generate triangles through blueprints!
+
+October 16th, 2014
+Tasty beers at MKT with Team Alpha. Watched 'The Wolf of Wallstreet', which was pretty good.
+
+October 17th, 2014
+Got set-based modifications working with extrusion!
+
+October 18th, 2014
+I don't remember.
+
+October 19th, 2014
+Wrote proper normal smoothing.
+
+October 20th, 2014
+Simplified blueprinting by making everything Face-oriented.
+
+October 21st, 2014
+Implemented Taubin Mesh Smoothing with weighted edges, ordered some supplements so I can stop eating fish.
+
+October 22nd, 2014
+Absolutely awesome jam with Matthew, officially going to incorporate him into glossary.
+
+October 23rd, 2014
+Made my best tofu yet, and implemented edge detection and mesh inflation and deflation!
+
+October 24th, 2014
+First night playing with the DK2, and it is totally awesome!
+
+October 25th, 2014
+Lazy day learning about phytic acid.
+
+October 26th, 2014
+Saw Pidgeon Breeders and Jung People Play. Jung people started, then Pidgeon Breeders joined, Jung people left, then came back, then Pidgeon Breeders left. Was very cool. Made some truly awful stirfry by combining seaweed and blackstrap molasses.
+
+October 27th, 2014
+First day of new job was pretty cool - going to learn plenty of stuff. Also got transformations working in mesh generation tool.
+
+October 28th, 2014
+Messed about with Blender for work, and watched 'Dallas Buyers Club', which was really good.
+
+October 29th 2014
+Totally awesome jam with Tyler and Mathew, and implemented a neat little shader for opacity maps.
+
+October 30th, 2014
+Began porting QuickMesh back to Unity. I think this third version of it will be great!
+
+October 31st, 2014
+Last minute ticket to Funk Hunters. Had fun, and did maybe a little too much lsd.
+
+November 1st, 2014
+Good time at Stephen's party. Made a very tasty vegan pizza.
+
+November 2nd, 2014
+Got filters working in the Unity version of QuickMesh!
+
+November 3rd, 2014
+Started porting Mesh subdivision and smoothing.
+
+November 4th, 2014
+Finished subdivision and smoothing, improved filtering, and started on transforms! Pretty in to the new job - having a fun time coding at work again. Worked an extra 3 hours just because it felt good.
+
+November 5th, 2014
+Transforms working! Felt very nauseated after eating a bunch of junk-food. Don't do it!
+
+November 6th, 2014
+Hung out with Satch and got some good ideas going for a simple side-scroller as well as the cave game, and made a tasty curry.
+
+November 7th, 2014
+Went to the room, which was a ridiculous and surreal experience.
+
+November 8th, 2014
+???
+
+November 9th, 2014
+Awesome flood-fill algorithm for smoothing! Saw Intersteller, which was pretty great.
+
+November 10th, 2014
+Made a homemade crust for vegan pizza, and it was truly delicious. Also figured out how to easily generate outlines based on flipped-normal shell meshes!
+
+November 11th, 2014
+Good supper with family, felt very full of energy and talkative. Got joins between mesh faces working.
+
+November 12th, 2014
+Band practice cancelled, so went for an imprompteau climb.
+
+November 13th, 2014
+Great jam with Glossary, and good progress on RunGunJumpGun.
+
+November 14th, 2014
+Good climb, then fun time out with Rachael and Peter.
+
+November 15th, 2014
+Helped Kelsey move. Tried GHB, which was enjoyable and very maneagable. Resolved to figure out a way to program my own effects for live music.
+
+November 16th, 2014
+Totally depleted and bad feeling. Hard to say if it was the GHB or the 4 hour sleep. Successfully got my voice passing through SuperCollider with my Edirol UA-25!
+
+November 17th, 2014
+Finally got a halfways decent way of syncing unity project dependancies working, and had a great practice with Glossary.
+
+November 18th, 2014
+Played the Creature Arty Party, which was a fun time! Music seemed well recieved.
+
+November 19th, 2014
+Worked late, learned Unity's animation system.
+
+November 20th, 2014
+Good work on RunGun with Satch!
+
+November 21st, 2014
+Got some cool stuff working with rungun, pid controller camera. Watching the Sopranos, which I'm enjoying.
+
+November 22nd, 2014
+Got a midi-controlled pitch shifter working, and read a bunch of Starting Strength.
+
+November 23rd, 2014
+Relaxed, ate fish again for the first time, and read enough of starting strength to do the first workout.
+
+November 24th, 2014
+Hit the gym for the first time in many years, and felt pretty awesome after. Watched a lot of sopranos.
+
+November 25th, 2014
+Tried out midi-pitch-shifter at bandpractice, and it was pretty stable. Had a pickled-herring sandwich, which was delicious. Watched lots of Sopranos.
+
+November 26th, 2014
+A little depressed. Finished season 2 of Sopranos, and watched the latest Adventure Time Episodes, which were great! I love it so much.
+
+November 27th, 2014
+Too much snow, so I stayed home and watched shows. Also ordered a midi footswitch. I'm excited to write code that uses it!
+
+November 28th, 2014
+Nice dinner with family at Packrat Louie's.
+
+November 29th, 2014
+Pretty quiet day. Made some pizza dough. Felt a bit ill in the evening.
+
+November 30th, 2014
+Saw Rachel's sister's quartet play their last show at the Carrot. They were great - it's too bad they're done.
+
+December 1st, 2014
+Tons of exercise - went to the gym, then rode to and from work, then climbed. Pedal board came in the mail!
+
+December 2nd, 2014
+Sopranos.
+
+December 3rd, 2014
+Excellent Glossary Jam. Pizza.
+
+December 4th, 2014
+figured out a way to make our build process nicer, did some work on RunGun, worked out late at night, and watched sopranos.
+
+December 5th, 2014
+Played Settlers of Catan with Matthew and Dan, two of Aaron and Nick's friends. Had fun!
+
+December 6th, 2014
+Bit of a nothing day - took some mushrooms and rode through the river valley to a party in the evening. Saw about 7 coyotes, but they wouldn't howl with me.
+
+December 7th, 2014
+Nice baroque concert with mum, went to Breakout Edmonton with work, brought rachael, was fun.
+
+December 8th, 2014
+Played a bunch of Shovel Knight, which is pretty fun, but not as tight a game as I'd like.
+
+December 9th, 2014
+Really cool work on building a custom looper!
+
+December 10th, 2014
+Worked on the looper, and got latency corrected stuff working!
+
+December 11th, 2014
+Got Jordan in on RunGun, and he whipped up some awesome music stuff for it quite quickly! Also got a simple filter-sweep working nice!
+
+December 12th, 2014
+Went to Kristin's party, took phenibut, drank a bit, felt pretty good.
+
+December 13th, 2014
+Bit of a nothing day, but got a lot of cleaning and organizing done, got some books on my new Kindle, and built a little step for my loft! Also ordered nootropics and a more accurate scale.
+
+December 14th, 2014
+Went to Interstellar with Rachael. Started taking nsi-189.
+
+December 15th, 2014
+Gall bladder sucky. Felt kinda weird, maybe from the nsi-189. Played some games.
+
+December 16th, 2014
+Bit of work on the looper. Felt sort of emotional, sad, listless. Started reading The Anxiety and Phobia workbook. 
+
+December 17th, 2014
+Gonna make one game a week and put it on my website. Also decided to start journaling publicly with semantic tags, so that I can do things like looking back at gall-bladder issues, strength, weight, etctera. I've realized that science is one more area in which the people can band together and just do it themselves, if we just take it on ourselves to learn a bit and be rigorous.
+
